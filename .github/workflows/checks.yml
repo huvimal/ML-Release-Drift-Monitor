@@ -1,0 +1,30 @@
+name: ML release and drift checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -v
+      - run: python monitor.py train
+      - run: python monitor.py initialize
+      - name: Reject faulty fixture
+        run: |
+          python -c "import subprocess; p = subprocess.run(['python', 'monitor.py', 'promote', '--candidate', 'faulty-v0', '--expected', 'stable-v1', '--request', 'bad-v0']); assert p.returncode == 1"
+      - run: python monitor.py promote --candidate candidate-v2 --expected stable-v1 --request release-v2
+      - run: python monitor.py watch --window w01
+      - run: python monitor.py watch --window w02
+      - run: python monitor.py watch --window w03
+      - run: python monitor.py watch --window w04
+      - run: python monitor.py rollback --expected candidate-v2 --target stable-v1 --evidence w04 --request rollback-001
+      - run: python monitor.py watch --window w05
+      - run: python monitor.py status
+      - uses: actions/upload-artifact@v7
+        with:
+          name: synthetic-ml-monitor-reports
+          path: reports/

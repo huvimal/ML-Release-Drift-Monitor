@@ -1,0 +1,12 @@
+{
+  "release_min_accuracy": 0.9,
+  "release_max_accuracy_drop": 0.03,
+  "release_min_positive_recall": 0.8,
+  "min_label_count": 40,
+  "min_label_coverage": 0.6,
+  "monitor_accuracy_floor": 0.85,
+  "fallback_min_gain": 0.1,
+  "consecutive_bad_windows": 2,
+  "psi_threshold": 0.2,
+  "js_threshold": 0.1
+}

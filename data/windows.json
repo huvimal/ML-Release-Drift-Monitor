@@ -1,0 +1,3532 @@
+[
+  {
+    "window_id": "w01",
+    "as_of": "2026-02-02T00:10:00Z",
+    "events": [
+      {
+        "event_id": "w01-000",
+        "event_time": "2026-02-02T00:00:00Z",
+        "urgency_score": 0.16808265086827665,
+        "words": 23,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-001",
+        "event_time": "2026-02-02T00:00:01Z",
+        "urgency_score": 0.796681970853729,
+        "words": 86,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-002",
+        "event_time": "2026-02-02T00:00:02Z",
+        "urgency_score": 0.71233567789321,
+        "words": 84,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-003",
+        "event_time": "2026-02-02T00:00:03Z",
+        "urgency_score": 0.24802899338904802,
+        "words": 21,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-004",
+        "event_time": "2026-02-02T00:00:04Z",
+        "urgency_score": 0.6061716052407831,
+        "words": 80,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-005",
+        "event_time": "2026-02-02T00:00:05Z",
+        "urgency_score": 0.5326507037103307,
+        "words": 73,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-006",
+        "event_time": "2026-02-02T00:00:06Z",
+        "urgency_score": 0.9469727717062749,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-007",
+        "event_time": "2026-02-02T00:00:07Z",
+        "urgency_score": 0.37312731989603154,
+        "words": 12,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-008",
+        "event_time": "2026-02-02T00:00:08Z",
+        "urgency_score": 0.9650622017903142,
+        "words": 77,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-009",
+        "event_time": "2026-02-02T00:00:09Z",
+        "urgency_score": 0.5027904238280757,
+        "words": 81,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-010",
+        "event_time": "2026-02-02T00:00:10Z",
+        "urgency_score": 0.9476174270777094,
+        "words": 83,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-011",
+        "event_time": "2026-02-02T00:00:11Z",
+        "urgency_score": 0.8580818432569732,
+        "words": 73,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-012",
+        "event_time": "2026-02-02T00:00:12Z",
+        "urgency_score": 0.6355318747562693,
+        "words": 84,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-013",
+        "event_time": "2026-02-02T00:00:13Z",
+        "urgency_score": 0.7029449380342407,
+        "words": 76,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-014",
+        "event_time": "2026-02-02T00:00:14Z",
+        "urgency_score": 0.8371194061613877,
+        "words": 79,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-015",
+        "event_time": "2026-02-02T00:00:15Z",
+        "urgency_score": 0.45134645155887276,
+        "words": 27,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-016",
+        "event_time": "2026-02-02T00:00:16Z",
+        "urgency_score": 0.1614547097519401,
+        "words": 11,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-017",
+        "event_time": "2026-02-02T00:00:17Z",
+        "urgency_score": 0.8040351256212804,
+        "words": 84,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-018",
+        "event_time": "2026-02-02T00:00:18Z",
+        "urgency_score": 0.9132530500412239,
+        "words": 77,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-019",
+        "event_time": "2026-02-02T00:00:19Z",
+        "urgency_score": 0.2463469509088953,
+        "words": 22,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-020",
+        "event_time": "2026-02-02T00:00:20Z",
+        "urgency_score": 0.37991616648105686,
+        "words": 29,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-021",
+        "event_time": "2026-02-02T00:00:21Z",
+        "urgency_score": 0.6439622569224144,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-022",
+        "event_time": "2026-02-02T00:00:22Z",
+        "urgency_score": 0.1520956042168368,
+        "words": 18,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-023",
+        "event_time": "2026-02-02T00:00:23Z",
+        "urgency_score": 0.8178660664948894,
+        "words": 87,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-024",
+        "event_time": "2026-02-02T00:00:24Z",
+        "urgency_score": 0.47034572206927394,
+        "words": 13,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-025",
+        "event_time": "2026-02-02T00:00:25Z",
+        "urgency_score": 0.2656869712995629,
+        "words": 14,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-026",
+        "event_time": "2026-02-02T00:00:26Z",
+        "urgency_score": 0.5468520756260821,
+        "words": 79,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-027",
+        "event_time": "2026-02-02T00:00:27Z",
+        "urgency_score": 0.7651257273299806,
+        "words": 75,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-028",
+        "event_time": "2026-02-02T00:00:28Z",
+        "urgency_score": 0.3091051468027712,
+        "words": 24,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-029",
+        "event_time": "2026-02-02T00:00:29Z",
+        "urgency_score": 0.4588290719709907,
+        "words": 21,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-030",
+        "event_time": "2026-02-02T00:00:30Z",
+        "urgency_score": 0.8232202117811218,
+        "words": 75,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-031",
+        "event_time": "2026-02-02T00:00:31Z",
+        "urgency_score": 0.5147607010010298,
+        "words": 80,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-032",
+        "event_time": "2026-02-02T00:00:32Z",
+        "urgency_score": 0.7098025546806586,
+        "words": 80,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-033",
+        "event_time": "2026-02-02T00:00:33Z",
+        "urgency_score": 0.2509416692542818,
+        "words": 20,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-034",
+        "event_time": "2026-02-02T00:00:34Z",
+        "urgency_score": 0.1998213553264472,
+        "words": 18,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-035",
+        "event_time": "2026-02-02T00:00:35Z",
+        "urgency_score": 0.0849721499924922,
+        "words": 16,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-036",
+        "event_time": "2026-02-02T00:00:36Z",
+        "urgency_score": 0.5423186815309121,
+        "words": 81,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-037",
+        "event_time": "2026-02-02T00:00:37Z",
+        "urgency_score": 0.39483558325766155,
+        "words": 15,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-038",
+        "event_time": "2026-02-02T00:00:38Z",
+        "urgency_score": 0.06179304816010557,
+        "words": 17,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-039",
+        "event_time": "2026-02-02T00:00:39Z",
+        "urgency_score": 0.03559254186458972,
+        "words": 23,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-040",
+        "event_time": "2026-02-02T00:00:40Z",
+        "urgency_score": 0.35101039343685564,
+        "words": 19,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-041",
+        "event_time": "2026-02-02T00:00:41Z",
+        "urgency_score": 0.7257795054198188,
+        "words": 74,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-042",
+        "event_time": "2026-02-02T00:00:42Z",
+        "urgency_score": 0.14807320626498943,
+        "words": 18,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-043",
+        "event_time": "2026-02-02T00:00:43Z",
+        "urgency_score": 0.18808556196964007,
+        "words": 23,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-044",
+        "event_time": "2026-02-02T00:00:44Z",
+        "urgency_score": 0.4660379837571562,
+        "words": 18,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-045",
+        "event_time": "2026-02-02T00:00:45Z",
+        "urgency_score": 0.08057651555093563,
+        "words": 15,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-046",
+        "event_time": "2026-02-02T00:00:46Z",
+        "urgency_score": 0.05550443859178468,
+        "words": 22,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-047",
+        "event_time": "2026-02-02T00:00:47Z",
+        "urgency_score": 0.3229719872477363,
+        "words": 27,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-048",
+        "event_time": "2026-02-02T00:00:48Z",
+        "urgency_score": 0.5147682456843188,
+        "words": 85,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-049",
+        "event_time": "2026-02-02T00:00:49Z",
+        "urgency_score": 0.055155940675432016,
+        "words": 20,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-050",
+        "event_time": "2026-02-02T00:00:50Z",
+        "urgency_score": 0.20345929350455444,
+        "words": 16,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-051",
+        "event_time": "2026-02-02T00:00:51Z",
+        "urgency_score": 0.33864769892609076,
+        "words": 25,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-052",
+        "event_time": "2026-02-02T00:00:52Z",
+        "urgency_score": 0.7873687150575102,
+        "words": 76,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-053",
+        "event_time": "2026-02-02T00:00:53Z",
+        "urgency_score": 0.8788519951568512,
+        "words": 82,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-054",
+        "event_time": "2026-02-02T00:00:54Z",
+        "urgency_score": 0.3454751632718342,
+        "words": 22,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-055",
+        "event_time": "2026-02-02T00:00:55Z",
+        "urgency_score": 0.907338047961885,
+        "words": 86,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-056",
+        "event_time": "2026-02-02T00:00:56Z",
+        "urgency_score": 0.2760518679700953,
+        "words": 24,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-057",
+        "event_time": "2026-02-02T00:00:57Z",
+        "urgency_score": 0.5983551668770182,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-058",
+        "event_time": "2026-02-02T00:00:58Z",
+        "urgency_score": 0.5436554214508516,
+        "words": 79,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-059",
+        "event_time": "2026-02-02T00:00:59Z",
+        "urgency_score": 0.30381435136672863,
+        "words": 21,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-060",
+        "event_time": "2026-02-02T00:01:00Z",
+        "urgency_score": 0.5985167626213758,
+        "words": 75,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-061",
+        "event_time": "2026-02-02T00:01:01Z",
+        "urgency_score": 0.4492444732834469,
+        "words": 23,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-062",
+        "event_time": "2026-02-02T00:01:02Z",
+        "urgency_score": 0.8552356880541364,
+        "words": 71,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-063",
+        "event_time": "2026-02-02T00:01:03Z",
+        "urgency_score": 0.6338905380727812,
+        "words": 91,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-064",
+        "event_time": "2026-02-02T00:01:04Z",
+        "urgency_score": 0.0920395183886329,
+        "words": 18,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-065",
+        "event_time": "2026-02-02T00:01:05Z",
+        "urgency_score": 0.6722341835021023,
+        "words": 77,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-066",
+        "event_time": "2026-02-02T00:01:06Z",
+        "urgency_score": 0.15706828962804772,
+        "words": 15,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-067",
+        "event_time": "2026-02-02T00:01:07Z",
+        "urgency_score": 0.1411808233301641,
+        "words": 16,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-068",
+        "event_time": "2026-02-02T00:01:08Z",
+        "urgency_score": 0.7673747585665908,
+        "words": 77,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-069",
+        "event_time": "2026-02-02T00:01:09Z",
+        "urgency_score": 0.0510899110204803,
+        "words": 23,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-070",
+        "event_time": "2026-02-02T00:01:10Z",
+        "urgency_score": 0.6718995746368591,
+        "words": 84,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-071",
+        "event_time": "2026-02-02T00:01:11Z",
+        "urgency_score": 0.5709649072005398,
+        "words": 79,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-072",
+        "event_time": "2026-02-02T00:01:12Z",
+        "urgency_score": 0.37227195070767904,
+        "words": 19,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-073",
+        "event_time": "2026-02-02T00:01:13Z",
+        "urgency_score": 0.04487680722957748,
+        "words": 23,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-074",
+        "event_time": "2026-02-02T00:01:14Z",
+        "urgency_score": 0.4990822018462081,
+        "words": 16,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-075",
+        "event_time": "2026-02-02T00:01:15Z",
+        "urgency_score": 0.7639659041902286,
+        "words": 83,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-076",
+        "event_time": "2026-02-02T00:01:16Z",
+        "urgency_score": 0.44842218790939153,
+        "words": 23,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-077",
+        "event_time": "2026-02-02T00:01:17Z",
+        "urgency_score": 0.21217120735147538,
+        "words": 20,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-078",
+        "event_time": "2026-02-02T00:01:18Z",
+        "urgency_score": 0.8387132387689498,
+        "words": 72,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-079",
+        "event_time": "2026-02-02T00:01:19Z",
+        "urgency_score": 0.9773719078621201,
+        "words": 83,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-080",
+        "event_time": "2026-02-02T00:01:20Z",
+        "urgency_score": 0.9488587869085399,
+        "words": 86,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-081",
+        "event_time": "2026-02-02T00:01:21Z",
+        "urgency_score": 0.0823415151834283,
+        "words": 19,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-082",
+        "event_time": "2026-02-02T00:01:22Z",
+        "urgency_score": 0.2987477914667011,
+        "words": 19,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-083",
+        "event_time": "2026-02-02T00:01:23Z",
+        "urgency_score": 0.9102314784542507,
+        "words": 82,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-084",
+        "event_time": "2026-02-02T00:01:24Z",
+        "urgency_score": 0.18712736935875204,
+        "words": 18,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-085",
+        "event_time": "2026-02-02T00:01:25Z",
+        "urgency_score": 0.7803830466666951,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-086",
+        "event_time": "2026-02-02T00:01:26Z",
+        "urgency_score": 0.7787581383754392,
+        "words": 85,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-087",
+        "event_time": "2026-02-02T00:01:27Z",
+        "urgency_score": 0.4687096057200078,
+        "words": 21,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-088",
+        "event_time": "2026-02-02T00:01:28Z",
+        "urgency_score": 0.1445803805252196,
+        "words": 21,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-089",
+        "event_time": "2026-02-02T00:01:29Z",
+        "urgency_score": 0.9796112421770115,
+        "words": 79,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-090",
+        "event_time": "2026-02-02T00:01:30Z",
+        "urgency_score": 0.4795185055186437,
+        "words": 17,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-091",
+        "event_time": "2026-02-02T00:01:31Z",
+        "urgency_score": 0.09080068439478947,
+        "words": 22,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-092",
+        "event_time": "2026-02-02T00:01:32Z",
+        "urgency_score": 0.6366450458109261,
+        "words": 74,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-093",
+        "event_time": "2026-02-02T00:01:33Z",
+        "urgency_score": 0.1432012263152133,
+        "words": 22,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-094",
+        "event_time": "2026-02-02T00:01:34Z",
+        "urgency_score": 0.6342021721919965,
+        "words": 84,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-095",
+        "event_time": "2026-02-02T00:01:35Z",
+        "urgency_score": 0.5027492349913997,
+        "words": 89,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-096",
+        "event_time": "2026-02-02T00:01:36Z",
+        "urgency_score": 0.8181351742088397,
+        "words": 77,
+        "channel": "web"
+      },
+      {
+        "event_id": "w01-097",
+        "event_time": "2026-02-02T00:01:37Z",
+        "urgency_score": 0.3297543211083734,
+        "words": 20,
+        "channel": "email"
+      },
+      {
+        "event_id": "w01-098",
+        "event_time": "2026-02-02T00:01:38Z",
+        "urgency_score": 0.23645147332684802,
+        "words": 25,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w01-099",
+        "event_time": "2026-02-02T00:01:39Z",
+        "urgency_score": 0.832096357909631,
+        "words": 78,
+        "channel": "chat"
+      }
+    ]
+  },
+  {
+    "window_id": "w02",
+    "as_of": "2026-02-03T00:10:00Z",
+    "events": [
+      {
+        "event_id": "w02-000",
+        "event_time": "2026-02-03T00:00:00Z",
+        "urgency_score": 0.20844984270375067,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-001",
+        "event_time": "2026-02-03T00:00:01Z",
+        "urgency_score": 0.6200214669906469,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-002",
+        "event_time": "2026-02-03T00:00:02Z",
+        "urgency_score": 0.6353479302070324,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-003",
+        "event_time": "2026-02-03T00:00:03Z",
+        "urgency_score": 0.1843525981335606,
+        "words": 134,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-004",
+        "event_time": "2026-02-03T00:00:04Z",
+        "urgency_score": 0.34411480314157006,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-005",
+        "event_time": "2026-02-03T00:00:05Z",
+        "urgency_score": 0.8492299439552318,
+        "words": 145,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-006",
+        "event_time": "2026-02-03T00:00:06Z",
+        "urgency_score": 0.7601814740426867,
+        "words": 143,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-007",
+        "event_time": "2026-02-03T00:00:07Z",
+        "urgency_score": 0.5692517143482215,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-008",
+        "event_time": "2026-02-03T00:00:08Z",
+        "urgency_score": 0.8734370061909962,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-009",
+        "event_time": "2026-02-03T00:00:09Z",
+        "urgency_score": 0.3100103484364377,
+        "words": 147,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-010",
+        "event_time": "2026-02-03T00:00:10Z",
+        "urgency_score": 0.4098488256747761,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-011",
+        "event_time": "2026-02-03T00:00:11Z",
+        "urgency_score": 0.17175722913459887,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-012",
+        "event_time": "2026-02-03T00:00:12Z",
+        "urgency_score": 0.3465848656177063,
+        "words": 146,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-013",
+        "event_time": "2026-02-03T00:00:13Z",
+        "urgency_score": 0.326543736940859,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-014",
+        "event_time": "2026-02-03T00:00:14Z",
+        "urgency_score": 0.402767942887064,
+        "words": 135,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-015",
+        "event_time": "2026-02-03T00:00:15Z",
+        "urgency_score": 0.12193657626473339,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-016",
+        "event_time": "2026-02-03T00:00:16Z",
+        "urgency_score": 0.4516121715158382,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-017",
+        "event_time": "2026-02-03T00:00:17Z",
+        "urgency_score": 0.9275694969950902,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-018",
+        "event_time": "2026-02-03T00:00:18Z",
+        "urgency_score": 0.9441784181497633,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-019",
+        "event_time": "2026-02-03T00:00:19Z",
+        "urgency_score": 0.9164014738394286,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-020",
+        "event_time": "2026-02-03T00:00:20Z",
+        "urgency_score": 0.17296871541690015,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-021",
+        "event_time": "2026-02-03T00:00:21Z",
+        "urgency_score": 0.8639126370564018,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-022",
+        "event_time": "2026-02-03T00:00:22Z",
+        "urgency_score": 0.3975124967487654,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-023",
+        "event_time": "2026-02-03T00:00:23Z",
+        "urgency_score": 0.5800103475062496,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-024",
+        "event_time": "2026-02-03T00:00:24Z",
+        "urgency_score": 0.5936180201697788,
+        "words": 135,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-025",
+        "event_time": "2026-02-03T00:00:25Z",
+        "urgency_score": 0.2943184461833769,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-026",
+        "event_time": "2026-02-03T00:00:26Z",
+        "urgency_score": 0.14857754623262204,
+        "words": 144,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-027",
+        "event_time": "2026-02-03T00:00:27Z",
+        "urgency_score": 0.40712390922978414,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-028",
+        "event_time": "2026-02-03T00:00:28Z",
+        "urgency_score": 0.559344190559306,
+        "words": 143,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-029",
+        "event_time": "2026-02-03T00:00:29Z",
+        "urgency_score": 0.39089487198058737,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-030",
+        "event_time": "2026-02-03T00:00:30Z",
+        "urgency_score": 0.812298865240269,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-031",
+        "event_time": "2026-02-03T00:00:31Z",
+        "urgency_score": 0.14351685506164655,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-032",
+        "event_time": "2026-02-03T00:00:32Z",
+        "urgency_score": 0.9673161578589818,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-033",
+        "event_time": "2026-02-03T00:00:33Z",
+        "urgency_score": 0.15849666499417692,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-034",
+        "event_time": "2026-02-03T00:00:34Z",
+        "urgency_score": 0.05864470991113194,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-035",
+        "event_time": "2026-02-03T00:00:35Z",
+        "urgency_score": 0.7918072209864435,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-036",
+        "event_time": "2026-02-03T00:00:36Z",
+        "urgency_score": 0.8774064243948869,
+        "words": 147,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-037",
+        "event_time": "2026-02-03T00:00:37Z",
+        "urgency_score": 0.32578883048893476,
+        "words": 143,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-038",
+        "event_time": "2026-02-03T00:00:38Z",
+        "urgency_score": 0.8288978502695632,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-039",
+        "event_time": "2026-02-03T00:00:39Z",
+        "urgency_score": 0.5093255367207992,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-040",
+        "event_time": "2026-02-03T00:00:40Z",
+        "urgency_score": 0.4758968959981119,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-041",
+        "event_time": "2026-02-03T00:00:41Z",
+        "urgency_score": 0.12522040591166989,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-042",
+        "event_time": "2026-02-03T00:00:42Z",
+        "urgency_score": 0.8828164200209918,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-043",
+        "event_time": "2026-02-03T00:00:43Z",
+        "urgency_score": 0.5930332313150659,
+        "words": 146,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-044",
+        "event_time": "2026-02-03T00:00:44Z",
+        "urgency_score": 0.953174589463439,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-045",
+        "event_time": "2026-02-03T00:00:45Z",
+        "urgency_score": 0.06930095851557212,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-046",
+        "event_time": "2026-02-03T00:00:46Z",
+        "urgency_score": 0.7123355218391594,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-047",
+        "event_time": "2026-02-03T00:00:47Z",
+        "urgency_score": 0.8087948394827381,
+        "words": 145,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-048",
+        "event_time": "2026-02-03T00:00:48Z",
+        "urgency_score": 0.6925000746957934,
+        "words": 144,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-049",
+        "event_time": "2026-02-03T00:00:49Z",
+        "urgency_score": 0.42202908624242247,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-050",
+        "event_time": "2026-02-03T00:00:50Z",
+        "urgency_score": 0.5017467244265481,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-051",
+        "event_time": "2026-02-03T00:00:51Z",
+        "urgency_score": 0.8344419150531573,
+        "words": 134,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-052",
+        "event_time": "2026-02-03T00:00:52Z",
+        "urgency_score": 0.5179358830977084,
+        "words": 135,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-053",
+        "event_time": "2026-02-03T00:00:53Z",
+        "urgency_score": 0.4792361440096651,
+        "words": 147,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-054",
+        "event_time": "2026-02-03T00:00:54Z",
+        "urgency_score": 0.46127699073880307,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-055",
+        "event_time": "2026-02-03T00:00:55Z",
+        "urgency_score": 0.6688338334941133,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-056",
+        "event_time": "2026-02-03T00:00:56Z",
+        "urgency_score": 0.7915064289091585,
+        "words": 145,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-057",
+        "event_time": "2026-02-03T00:00:57Z",
+        "urgency_score": 0.9390439003457007,
+        "words": 143,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-058",
+        "event_time": "2026-02-03T00:00:58Z",
+        "urgency_score": 0.923826124474363,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-059",
+        "event_time": "2026-02-03T00:00:59Z",
+        "urgency_score": 0.6967048993631205,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-060",
+        "event_time": "2026-02-03T00:01:00Z",
+        "urgency_score": 0.4806112862739789,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-061",
+        "event_time": "2026-02-03T00:01:01Z",
+        "urgency_score": 0.712797803450519,
+        "words": 145,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-062",
+        "event_time": "2026-02-03T00:01:02Z",
+        "urgency_score": 0.5414632419087471,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-063",
+        "event_time": "2026-02-03T00:01:03Z",
+        "urgency_score": 0.3513292881580033,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-064",
+        "event_time": "2026-02-03T00:01:04Z",
+        "urgency_score": 0.0603838273594165,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-065",
+        "event_time": "2026-02-03T00:01:05Z",
+        "urgency_score": 0.9070492466142853,
+        "words": 134,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-066",
+        "event_time": "2026-02-03T00:01:06Z",
+        "urgency_score": 0.22542733575392723,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-067",
+        "event_time": "2026-02-03T00:01:07Z",
+        "urgency_score": 0.5595372988903854,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-068",
+        "event_time": "2026-02-03T00:01:08Z",
+        "urgency_score": 0.7312553376209533,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-069",
+        "event_time": "2026-02-03T00:01:09Z",
+        "urgency_score": 0.888976823313533,
+        "words": 143,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-070",
+        "event_time": "2026-02-03T00:01:10Z",
+        "urgency_score": 0.11619004068351767,
+        "words": 144,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-071",
+        "event_time": "2026-02-03T00:01:11Z",
+        "urgency_score": 0.673944307118173,
+        "words": 148,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-072",
+        "event_time": "2026-02-03T00:01:12Z",
+        "urgency_score": 0.9587942833597637,
+        "words": 145,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-073",
+        "event_time": "2026-02-03T00:01:13Z",
+        "urgency_score": 0.8654215589408847,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-074",
+        "event_time": "2026-02-03T00:01:14Z",
+        "urgency_score": 0.7456746170323899,
+        "words": 143,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-075",
+        "event_time": "2026-02-03T00:01:15Z",
+        "urgency_score": 0.0767960827918311,
+        "words": 134,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-076",
+        "event_time": "2026-02-03T00:01:16Z",
+        "urgency_score": 0.2429313912521763,
+        "words": 132,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-077",
+        "event_time": "2026-02-03T00:01:17Z",
+        "urgency_score": 0.05580631670877732,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-078",
+        "event_time": "2026-02-03T00:01:18Z",
+        "urgency_score": 0.8241006935295251,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-079",
+        "event_time": "2026-02-03T00:01:19Z",
+        "urgency_score": 0.8227550701880065,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-080",
+        "event_time": "2026-02-03T00:01:20Z",
+        "urgency_score": 0.7390430733833172,
+        "words": 138,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-081",
+        "event_time": "2026-02-03T00:01:21Z",
+        "urgency_score": 0.05596752888632178,
+        "words": 145,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-082",
+        "event_time": "2026-02-03T00:01:22Z",
+        "urgency_score": 0.9113166521763364,
+        "words": 144,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-083",
+        "event_time": "2026-02-03T00:01:23Z",
+        "urgency_score": 0.6356599131343399,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-084",
+        "event_time": "2026-02-03T00:01:24Z",
+        "urgency_score": 0.14883194816870499,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-085",
+        "event_time": "2026-02-03T00:01:25Z",
+        "urgency_score": 0.7964613231132991,
+        "words": 146,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-086",
+        "event_time": "2026-02-03T00:01:26Z",
+        "urgency_score": 0.642353925160872,
+        "words": 139,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-087",
+        "event_time": "2026-02-03T00:01:27Z",
+        "urgency_score": 0.34362769215656036,
+        "words": 146,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-088",
+        "event_time": "2026-02-03T00:01:28Z",
+        "urgency_score": 0.2054348362123602,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-089",
+        "event_time": "2026-02-03T00:01:29Z",
+        "urgency_score": 0.4092707597755657,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-090",
+        "event_time": "2026-02-03T00:01:30Z",
+        "urgency_score": 0.4047999167627515,
+        "words": 146,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-091",
+        "event_time": "2026-02-03T00:01:31Z",
+        "urgency_score": 0.47835593455029723,
+        "words": 140,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-092",
+        "event_time": "2026-02-03T00:01:32Z",
+        "urgency_score": 0.3882314150489896,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-093",
+        "event_time": "2026-02-03T00:01:33Z",
+        "urgency_score": 0.3364402911802232,
+        "words": 137,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-094",
+        "event_time": "2026-02-03T00:01:34Z",
+        "urgency_score": 0.2710910247827771,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-095",
+        "event_time": "2026-02-03T00:01:35Z",
+        "urgency_score": 0.6610746702067245,
+        "words": 141,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-096",
+        "event_time": "2026-02-03T00:01:36Z",
+        "urgency_score": 0.678630675095466,
+        "words": 136,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-097",
+        "event_time": "2026-02-03T00:01:37Z",
+        "urgency_score": 0.7590474055598588,
+        "words": 135,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-098",
+        "event_time": "2026-02-03T00:01:38Z",
+        "urgency_score": 0.9230101987960644,
+        "words": 142,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w02-099",
+        "event_time": "2026-02-03T00:01:39Z",
+        "urgency_score": 0.9390661153810175,
+        "words": 141,
+        "channel": "mobile"
+      }
+    ]
+  },
+  {
+    "window_id": "w03",
+    "as_of": "2026-02-04T00:10:00Z",
+    "events": [
+      {
+        "event_id": "w03-000",
+        "event_time": "2026-02-04T00:00:00Z",
+        "urgency_score": 0.9692844434194966,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-001",
+        "event_time": "2026-02-04T00:00:01Z",
+        "urgency_score": 0.8962850127517801,
+        "words": 24,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-002",
+        "event_time": "2026-02-04T00:00:02Z",
+        "urgency_score": 0.7470565023721529,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-003",
+        "event_time": "2026-02-04T00:00:03Z",
+        "urgency_score": 0.7513852351722627,
+        "words": 13,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-004",
+        "event_time": "2026-02-04T00:00:04Z",
+        "urgency_score": 0.6731282431226221,
+        "words": 14,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-005",
+        "event_time": "2026-02-04T00:00:05Z",
+        "urgency_score": 0.524486389971361,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-006",
+        "event_time": "2026-02-04T00:00:06Z",
+        "urgency_score": 0.5270461991102656,
+        "words": 14,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-007",
+        "event_time": "2026-02-04T00:00:07Z",
+        "urgency_score": 0.12772043987577944,
+        "words": 87,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-008",
+        "event_time": "2026-02-04T00:00:08Z",
+        "urgency_score": 0.8156230918000882,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-009",
+        "event_time": "2026-02-04T00:00:09Z",
+        "urgency_score": 0.5351937519301346,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-010",
+        "event_time": "2026-02-04T00:00:10Z",
+        "urgency_score": 0.17795567031944481,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-011",
+        "event_time": "2026-02-04T00:00:11Z",
+        "urgency_score": 0.6730834284215079,
+        "words": 17,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-012",
+        "event_time": "2026-02-04T00:00:12Z",
+        "urgency_score": 0.708241247533424,
+        "words": 11,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-013",
+        "event_time": "2026-02-04T00:00:13Z",
+        "urgency_score": 0.44766338449973164,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-014",
+        "event_time": "2026-02-04T00:00:14Z",
+        "urgency_score": 0.07341037359308451,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-015",
+        "event_time": "2026-02-04T00:00:15Z",
+        "urgency_score": 0.5613547376947648,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-016",
+        "event_time": "2026-02-04T00:00:16Z",
+        "urgency_score": 0.5564453110388157,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-017",
+        "event_time": "2026-02-04T00:00:17Z",
+        "urgency_score": 0.04089963957749873,
+        "words": 77,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-018",
+        "event_time": "2026-02-04T00:00:18Z",
+        "urgency_score": 0.2642789303049079,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-019",
+        "event_time": "2026-02-04T00:00:19Z",
+        "urgency_score": 0.09010834487883901,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-020",
+        "event_time": "2026-02-04T00:00:20Z",
+        "urgency_score": 0.4267494893874802,
+        "words": 78,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-021",
+        "event_time": "2026-02-04T00:00:21Z",
+        "urgency_score": 0.07784540606438721,
+        "words": 75,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-022",
+        "event_time": "2026-02-04T00:00:22Z",
+        "urgency_score": 0.8784497075249134,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-023",
+        "event_time": "2026-02-04T00:00:23Z",
+        "urgency_score": 0.2956070786156673,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-024",
+        "event_time": "2026-02-04T00:00:24Z",
+        "urgency_score": 0.1927820737526802,
+        "words": 84,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-025",
+        "event_time": "2026-02-04T00:00:25Z",
+        "urgency_score": 0.7201179192963657,
+        "words": 24,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-026",
+        "event_time": "2026-02-04T00:00:26Z",
+        "urgency_score": 0.9452312642600198,
+        "words": 14,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-027",
+        "event_time": "2026-02-04T00:00:27Z",
+        "urgency_score": 0.45059564735617835,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-028",
+        "event_time": "2026-02-04T00:00:28Z",
+        "urgency_score": 0.9004304736144588,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-029",
+        "event_time": "2026-02-04T00:00:29Z",
+        "urgency_score": 0.9455786013254585,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-030",
+        "event_time": "2026-02-04T00:00:30Z",
+        "urgency_score": 0.8595715728232879,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-031",
+        "event_time": "2026-02-04T00:00:31Z",
+        "urgency_score": 0.13388784059386458,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-032",
+        "event_time": "2026-02-04T00:00:32Z",
+        "urgency_score": 0.9731329050344835,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-033",
+        "event_time": "2026-02-04T00:00:33Z",
+        "urgency_score": 0.9595754019452825,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-034",
+        "event_time": "2026-02-04T00:00:34Z",
+        "urgency_score": 0.8214287472019669,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-035",
+        "event_time": "2026-02-04T00:00:35Z",
+        "urgency_score": 0.46448374514698876,
+        "words": 69,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-036",
+        "event_time": "2026-02-04T00:00:36Z",
+        "urgency_score": 0.7103302160104179,
+        "words": 17,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-037",
+        "event_time": "2026-02-04T00:00:37Z",
+        "urgency_score": 0.24047750411638277,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-038",
+        "event_time": "2026-02-04T00:00:38Z",
+        "urgency_score": 0.4622002674066524,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-039",
+        "event_time": "2026-02-04T00:00:39Z",
+        "urgency_score": 0.8601998476387782,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-040",
+        "event_time": "2026-02-04T00:00:40Z",
+        "urgency_score": 0.7548703320945117,
+        "words": 26,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-041",
+        "event_time": "2026-02-04T00:00:41Z",
+        "urgency_score": 0.610326278920556,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-042",
+        "event_time": "2026-02-04T00:00:42Z",
+        "urgency_score": 0.9187884131700274,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-043",
+        "event_time": "2026-02-04T00:00:43Z",
+        "urgency_score": 0.08459926677391554,
+        "words": 78,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-044",
+        "event_time": "2026-02-04T00:00:44Z",
+        "urgency_score": 0.590186381580183,
+        "words": 14,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-045",
+        "event_time": "2026-02-04T00:00:45Z",
+        "urgency_score": 0.8573239210749363,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-046",
+        "event_time": "2026-02-04T00:00:46Z",
+        "urgency_score": 0.2549447851696568,
+        "words": 84,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-047",
+        "event_time": "2026-02-04T00:00:47Z",
+        "urgency_score": 0.5381694165511313,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-048",
+        "event_time": "2026-02-04T00:00:48Z",
+        "urgency_score": 0.744210280397393,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-049",
+        "event_time": "2026-02-04T00:00:49Z",
+        "urgency_score": 0.9737441035933264,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-050",
+        "event_time": "2026-02-04T00:00:50Z",
+        "urgency_score": 0.2447950564559906,
+        "words": 85,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-051",
+        "event_time": "2026-02-04T00:00:51Z",
+        "urgency_score": 0.5743758220523667,
+        "words": 17,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-052",
+        "event_time": "2026-02-04T00:00:52Z",
+        "urgency_score": 0.7616366839828388,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-053",
+        "event_time": "2026-02-04T00:00:53Z",
+        "urgency_score": 0.8612079892868548,
+        "words": 17,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-054",
+        "event_time": "2026-02-04T00:00:54Z",
+        "urgency_score": 0.9662677382961207,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-055",
+        "event_time": "2026-02-04T00:00:55Z",
+        "urgency_score": 0.2841477636882612,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-056",
+        "event_time": "2026-02-04T00:00:56Z",
+        "urgency_score": 0.5544493933810252,
+        "words": 15,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-057",
+        "event_time": "2026-02-04T00:00:57Z",
+        "urgency_score": 0.18812786073202942,
+        "words": 76,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-058",
+        "event_time": "2026-02-04T00:00:58Z",
+        "urgency_score": 0.6716001183548015,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-059",
+        "event_time": "2026-02-04T00:00:59Z",
+        "urgency_score": 0.3506382365817051,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-060",
+        "event_time": "2026-02-04T00:01:00Z",
+        "urgency_score": 0.6375834226942719,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-061",
+        "event_time": "2026-02-04T00:01:01Z",
+        "urgency_score": 0.6884560710167262,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-062",
+        "event_time": "2026-02-04T00:01:02Z",
+        "urgency_score": 0.41192880975640495,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-063",
+        "event_time": "2026-02-04T00:01:03Z",
+        "urgency_score": 0.5364111338151847,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-064",
+        "event_time": "2026-02-04T00:01:04Z",
+        "urgency_score": 0.2513294614506311,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-065",
+        "event_time": "2026-02-04T00:01:05Z",
+        "urgency_score": 0.1585776791985713,
+        "words": 88,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-066",
+        "event_time": "2026-02-04T00:01:06Z",
+        "urgency_score": 0.46450415311866644,
+        "words": 84,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-067",
+        "event_time": "2026-02-04T00:01:07Z",
+        "urgency_score": 0.4198475519939906,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-068",
+        "event_time": "2026-02-04T00:01:08Z",
+        "urgency_score": 0.5287921414429623,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-069",
+        "event_time": "2026-02-04T00:01:09Z",
+        "urgency_score": 0.3370524738791407,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-070",
+        "event_time": "2026-02-04T00:01:10Z",
+        "urgency_score": 0.09590761605901314,
+        "words": 76,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-071",
+        "event_time": "2026-02-04T00:01:11Z",
+        "urgency_score": 0.534210114893327,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-072",
+        "event_time": "2026-02-04T00:01:12Z",
+        "urgency_score": 0.8162300338064309,
+        "words": 24,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-073",
+        "event_time": "2026-02-04T00:01:13Z",
+        "urgency_score": 0.6007706685275224,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-074",
+        "event_time": "2026-02-04T00:01:14Z",
+        "urgency_score": 0.05796565203872049,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-075",
+        "event_time": "2026-02-04T00:01:15Z",
+        "urgency_score": 0.5840803412745372,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-076",
+        "event_time": "2026-02-04T00:01:16Z",
+        "urgency_score": 0.6645925013459955,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-077",
+        "event_time": "2026-02-04T00:01:17Z",
+        "urgency_score": 0.8907515144321749,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-078",
+        "event_time": "2026-02-04T00:01:18Z",
+        "urgency_score": 0.31106050460591134,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-079",
+        "event_time": "2026-02-04T00:01:19Z",
+        "urgency_score": 0.20242274972494273,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-080",
+        "event_time": "2026-02-04T00:01:20Z",
+        "urgency_score": 0.7318161948965753,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-081",
+        "event_time": "2026-02-04T00:01:21Z",
+        "urgency_score": 0.8978636449045646,
+        "words": 13,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-082",
+        "event_time": "2026-02-04T00:01:22Z",
+        "urgency_score": 0.6878012342767825,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-083",
+        "event_time": "2026-02-04T00:01:23Z",
+        "urgency_score": 0.24975772060451,
+        "words": 76,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-084",
+        "event_time": "2026-02-04T00:01:24Z",
+        "urgency_score": 0.32875040847430614,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-085",
+        "event_time": "2026-02-04T00:01:25Z",
+        "urgency_score": 0.6427724863953082,
+        "words": 24,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-086",
+        "event_time": "2026-02-04T00:01:26Z",
+        "urgency_score": 0.3160853929154512,
+        "words": 75,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-087",
+        "event_time": "2026-02-04T00:01:27Z",
+        "urgency_score": 0.46736390422779245,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-088",
+        "event_time": "2026-02-04T00:01:28Z",
+        "urgency_score": 0.7907039569472202,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-089",
+        "event_time": "2026-02-04T00:01:29Z",
+        "urgency_score": 0.3274239533972537,
+        "words": 73,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-090",
+        "event_time": "2026-02-04T00:01:30Z",
+        "urgency_score": 0.2150023916056508,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-091",
+        "event_time": "2026-02-04T00:01:31Z",
+        "urgency_score": 0.8495214478107029,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-092",
+        "event_time": "2026-02-04T00:01:32Z",
+        "urgency_score": 0.7316022835678294,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-093",
+        "event_time": "2026-02-04T00:01:33Z",
+        "urgency_score": 0.5806706231532782,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-094",
+        "event_time": "2026-02-04T00:01:34Z",
+        "urgency_score": 0.7112114602392535,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-095",
+        "event_time": "2026-02-04T00:01:35Z",
+        "urgency_score": 0.24081788096313306,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-096",
+        "event_time": "2026-02-04T00:01:36Z",
+        "urgency_score": 0.5669979321958736,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-097",
+        "event_time": "2026-02-04T00:01:37Z",
+        "urgency_score": 0.9257259632457252,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-098",
+        "event_time": "2026-02-04T00:01:38Z",
+        "urgency_score": 0.34406171267504754,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w03-099",
+        "event_time": "2026-02-04T00:01:39Z",
+        "urgency_score": 0.7146156285407146,
+        "words": 15,
+        "channel": "mobile"
+      }
+    ]
+  },
+  {
+    "window_id": "w04",
+    "as_of": "2026-02-05T00:10:00Z",
+    "events": [
+      {
+        "event_id": "w04-000",
+        "event_time": "2026-02-05T00:00:00Z",
+        "urgency_score": 0.7300103270334881,
+        "words": 14,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-001",
+        "event_time": "2026-02-05T00:00:01Z",
+        "urgency_score": 0.35808912159871364,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-002",
+        "event_time": "2026-02-05T00:00:02Z",
+        "urgency_score": 0.1543601874373926,
+        "words": 78,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-003",
+        "event_time": "2026-02-05T00:00:03Z",
+        "urgency_score": 0.8737899485264076,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-004",
+        "event_time": "2026-02-05T00:00:04Z",
+        "urgency_score": 0.9707105992446622,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-005",
+        "event_time": "2026-02-05T00:00:05Z",
+        "urgency_score": 0.8255057538511565,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-006",
+        "event_time": "2026-02-05T00:00:06Z",
+        "urgency_score": 0.09135719498530463,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-007",
+        "event_time": "2026-02-05T00:00:07Z",
+        "urgency_score": 0.02612847146314774,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-008",
+        "event_time": "2026-02-05T00:00:08Z",
+        "urgency_score": 0.15199186927708175,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-009",
+        "event_time": "2026-02-05T00:00:09Z",
+        "urgency_score": 0.1649884606061563,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-010",
+        "event_time": "2026-02-05T00:00:10Z",
+        "urgency_score": 0.22997088555621795,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-011",
+        "event_time": "2026-02-05T00:00:11Z",
+        "urgency_score": 0.6322194480902295,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-012",
+        "event_time": "2026-02-05T00:00:12Z",
+        "urgency_score": 0.9165475722540809,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-013",
+        "event_time": "2026-02-05T00:00:13Z",
+        "urgency_score": 0.03510249619445094,
+        "words": 77,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-014",
+        "event_time": "2026-02-05T00:00:14Z",
+        "urgency_score": 0.5309239856122271,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-015",
+        "event_time": "2026-02-05T00:00:15Z",
+        "urgency_score": 0.713305012760692,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-016",
+        "event_time": "2026-02-05T00:00:16Z",
+        "urgency_score": 0.5343085788069678,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-017",
+        "event_time": "2026-02-05T00:00:17Z",
+        "urgency_score": 0.6899447131683798,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-018",
+        "event_time": "2026-02-05T00:00:18Z",
+        "urgency_score": 0.43335028032899636,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-019",
+        "event_time": "2026-02-05T00:00:19Z",
+        "urgency_score": 0.9013268906806507,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-020",
+        "event_time": "2026-02-05T00:00:20Z",
+        "urgency_score": 0.5234099851767837,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-021",
+        "event_time": "2026-02-05T00:00:21Z",
+        "urgency_score": 0.2623214684620932,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-022",
+        "event_time": "2026-02-05T00:00:22Z",
+        "urgency_score": 0.3602634568261485,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-023",
+        "event_time": "2026-02-05T00:00:23Z",
+        "urgency_score": 0.9409258823825889,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-024",
+        "event_time": "2026-02-05T00:00:24Z",
+        "urgency_score": 0.4606378357291377,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-025",
+        "event_time": "2026-02-05T00:00:25Z",
+        "urgency_score": 0.30797565472632615,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-026",
+        "event_time": "2026-02-05T00:00:26Z",
+        "urgency_score": 0.8149395955648453,
+        "words": 31,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-027",
+        "event_time": "2026-02-05T00:00:27Z",
+        "urgency_score": 0.6438986737221659,
+        "words": 26,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-028",
+        "event_time": "2026-02-05T00:00:28Z",
+        "urgency_score": 0.050417123509649,
+        "words": 77,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-029",
+        "event_time": "2026-02-05T00:00:29Z",
+        "urgency_score": 0.47696489612661547,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-030",
+        "event_time": "2026-02-05T00:00:30Z",
+        "urgency_score": 0.6312781525334131,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-031",
+        "event_time": "2026-02-05T00:00:31Z",
+        "urgency_score": 0.831516602758715,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-032",
+        "event_time": "2026-02-05T00:00:32Z",
+        "urgency_score": 0.63911095226557,
+        "words": 15,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-033",
+        "event_time": "2026-02-05T00:00:33Z",
+        "urgency_score": 0.9548861558105599,
+        "words": 30,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-034",
+        "event_time": "2026-02-05T00:00:34Z",
+        "urgency_score": 0.8789995636569917,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-035",
+        "event_time": "2026-02-05T00:00:35Z",
+        "urgency_score": 0.8852220406636016,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-036",
+        "event_time": "2026-02-05T00:00:36Z",
+        "urgency_score": 0.6845962039534161,
+        "words": 17,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-037",
+        "event_time": "2026-02-05T00:00:37Z",
+        "urgency_score": 0.9071928959442237,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-038",
+        "event_time": "2026-02-05T00:00:38Z",
+        "urgency_score": 0.6770515937250958,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-039",
+        "event_time": "2026-02-05T00:00:39Z",
+        "urgency_score": 0.6517848708598741,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-040",
+        "event_time": "2026-02-05T00:00:40Z",
+        "urgency_score": 0.1921803230912663,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-041",
+        "event_time": "2026-02-05T00:00:41Z",
+        "urgency_score": 0.21887179079320027,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-042",
+        "event_time": "2026-02-05T00:00:42Z",
+        "urgency_score": 0.15842389883223382,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-043",
+        "event_time": "2026-02-05T00:00:43Z",
+        "urgency_score": 0.9117199426431952,
+        "words": 13,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-044",
+        "event_time": "2026-02-05T00:00:44Z",
+        "urgency_score": 0.307305813997628,
+        "words": 75,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-045",
+        "event_time": "2026-02-05T00:00:45Z",
+        "urgency_score": 0.8354647282778497,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-046",
+        "event_time": "2026-02-05T00:00:46Z",
+        "urgency_score": 0.6699535672416145,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-047",
+        "event_time": "2026-02-05T00:00:47Z",
+        "urgency_score": 0.7301553640838904,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-048",
+        "event_time": "2026-02-05T00:00:48Z",
+        "urgency_score": 0.7788781618247839,
+        "words": 19,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-049",
+        "event_time": "2026-02-05T00:00:49Z",
+        "urgency_score": 0.7356382988046883,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-050",
+        "event_time": "2026-02-05T00:00:50Z",
+        "urgency_score": 0.35202511825821226,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-051",
+        "event_time": "2026-02-05T00:00:51Z",
+        "urgency_score": 0.0929775167030769,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-052",
+        "event_time": "2026-02-05T00:00:52Z",
+        "urgency_score": 0.6009619934726165,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-053",
+        "event_time": "2026-02-05T00:00:53Z",
+        "urgency_score": 0.9501637061134928,
+        "words": 16,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-054",
+        "event_time": "2026-02-05T00:00:54Z",
+        "urgency_score": 0.33332158109874,
+        "words": 75,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-055",
+        "event_time": "2026-02-05T00:00:55Z",
+        "urgency_score": 0.4525281869693049,
+        "words": 75,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-056",
+        "event_time": "2026-02-05T00:00:56Z",
+        "urgency_score": 0.23901285426004784,
+        "words": 76,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-057",
+        "event_time": "2026-02-05T00:00:57Z",
+        "urgency_score": 0.19830833205958492,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-058",
+        "event_time": "2026-02-05T00:00:58Z",
+        "urgency_score": 0.5824401163626092,
+        "words": 15,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-059",
+        "event_time": "2026-02-05T00:00:59Z",
+        "urgency_score": 0.3035643014768732,
+        "words": 85,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-060",
+        "event_time": "2026-02-05T00:01:00Z",
+        "urgency_score": 0.2565917900546207,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-061",
+        "event_time": "2026-02-05T00:01:01Z",
+        "urgency_score": 0.38479999336011755,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-062",
+        "event_time": "2026-02-05T00:01:02Z",
+        "urgency_score": 0.7725346705954138,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-063",
+        "event_time": "2026-02-05T00:01:03Z",
+        "urgency_score": 0.366272218989498,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-064",
+        "event_time": "2026-02-05T00:01:04Z",
+        "urgency_score": 0.10785961154838955,
+        "words": 84,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-065",
+        "event_time": "2026-02-05T00:01:05Z",
+        "urgency_score": 0.750892631552933,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-066",
+        "event_time": "2026-02-05T00:01:06Z",
+        "urgency_score": 0.11814215754871604,
+        "words": 84,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-067",
+        "event_time": "2026-02-05T00:01:07Z",
+        "urgency_score": 0.5547056309323788,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-068",
+        "event_time": "2026-02-05T00:01:08Z",
+        "urgency_score": 0.5119432144740403,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-069",
+        "event_time": "2026-02-05T00:01:09Z",
+        "urgency_score": 0.5520510131816692,
+        "words": 21,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-070",
+        "event_time": "2026-02-05T00:01:10Z",
+        "urgency_score": 0.5930475730756076,
+        "words": 22,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-071",
+        "event_time": "2026-02-05T00:01:11Z",
+        "urgency_score": 0.031846990288596264,
+        "words": 72,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-072",
+        "event_time": "2026-02-05T00:01:12Z",
+        "urgency_score": 0.4172576669774023,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-073",
+        "event_time": "2026-02-05T00:01:13Z",
+        "urgency_score": 0.557155083931977,
+        "words": 14,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-074",
+        "event_time": "2026-02-05T00:01:14Z",
+        "urgency_score": 0.9730209921229342,
+        "words": 20,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-075",
+        "event_time": "2026-02-05T00:01:15Z",
+        "urgency_score": 0.6779033521227742,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-076",
+        "event_time": "2026-02-05T00:01:16Z",
+        "urgency_score": 0.18272167543535267,
+        "words": 80,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-077",
+        "event_time": "2026-02-05T00:01:17Z",
+        "urgency_score": 0.1600974278206859,
+        "words": 83,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-078",
+        "event_time": "2026-02-05T00:01:18Z",
+        "urgency_score": 0.18051910472876734,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-079",
+        "event_time": "2026-02-05T00:01:19Z",
+        "urgency_score": 0.771359959198866,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-080",
+        "event_time": "2026-02-05T00:01:20Z",
+        "urgency_score": 0.3666799157979469,
+        "words": 86,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-081",
+        "event_time": "2026-02-05T00:01:21Z",
+        "urgency_score": 0.4959703392539481,
+        "words": 78,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-082",
+        "event_time": "2026-02-05T00:01:22Z",
+        "urgency_score": 0.6120020403543583,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-083",
+        "event_time": "2026-02-05T00:01:23Z",
+        "urgency_score": 0.026496674648452654,
+        "words": 81,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-084",
+        "event_time": "2026-02-05T00:01:24Z",
+        "urgency_score": 0.3998642992893496,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-085",
+        "event_time": "2026-02-05T00:01:25Z",
+        "urgency_score": 0.8477103781428936,
+        "words": 17,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-086",
+        "event_time": "2026-02-05T00:01:26Z",
+        "urgency_score": 0.4426140046220032,
+        "words": 73,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-087",
+        "event_time": "2026-02-05T00:01:27Z",
+        "urgency_score": 0.6449953840319541,
+        "words": 23,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-088",
+        "event_time": "2026-02-05T00:01:28Z",
+        "urgency_score": 0.5906172023019156,
+        "words": 18,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-089",
+        "event_time": "2026-02-05T00:01:29Z",
+        "urgency_score": 0.687480603701006,
+        "words": 25,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-090",
+        "event_time": "2026-02-05T00:01:30Z",
+        "urgency_score": 0.479849352699637,
+        "words": 82,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-091",
+        "event_time": "2026-02-05T00:01:31Z",
+        "urgency_score": 0.3263721582277881,
+        "words": 84,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-092",
+        "event_time": "2026-02-05T00:01:32Z",
+        "urgency_score": 0.725479390823539,
+        "words": 13,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-093",
+        "event_time": "2026-02-05T00:01:33Z",
+        "urgency_score": 0.7706953948194334,
+        "words": 12,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-094",
+        "event_time": "2026-02-05T00:01:34Z",
+        "urgency_score": 0.33285078794518924,
+        "words": 79,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-095",
+        "event_time": "2026-02-05T00:01:35Z",
+        "urgency_score": 0.370414915899428,
+        "words": 87,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-096",
+        "event_time": "2026-02-05T00:01:36Z",
+        "urgency_score": 0.9147844664849079,
+        "words": 24,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-097",
+        "event_time": "2026-02-05T00:01:37Z",
+        "urgency_score": 0.1927301241043517,
+        "words": 93,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-098",
+        "event_time": "2026-02-05T00:01:38Z",
+        "urgency_score": 0.7569131914384304,
+        "words": 26,
+        "channel": "mobile"
+      },
+      {
+        "event_id": "w04-099",
+        "event_time": "2026-02-05T00:01:39Z",
+        "urgency_score": 0.9252559188010719,
+        "words": 21,
+        "channel": "mobile"
+      }
+    ]
+  },
+  {
+    "window_id": "w05",
+    "as_of": "2026-02-06T00:10:00Z",
+    "events": [
+      {
+        "event_id": "w05-000",
+        "event_time": "2026-02-06T00:00:00Z",
+        "urgency_score": 0.22126246050683215,
+        "words": 22,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-001",
+        "event_time": "2026-02-06T00:00:01Z",
+        "urgency_score": 0.8062069452842802,
+        "words": 73,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-002",
+        "event_time": "2026-02-06T00:00:02Z",
+        "urgency_score": 0.666058546299719,
+        "words": 82,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-003",
+        "event_time": "2026-02-06T00:00:03Z",
+        "urgency_score": 0.6523164497910253,
+        "words": 83,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-004",
+        "event_time": "2026-02-06T00:00:04Z",
+        "urgency_score": 0.4262028369122273,
+        "words": 17,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-005",
+        "event_time": "2026-02-06T00:00:05Z",
+        "urgency_score": 0.4800653117817212,
+        "words": 23,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-006",
+        "event_time": "2026-02-06T00:00:06Z",
+        "urgency_score": 0.5329927051540324,
+        "words": 87,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-007",
+        "event_time": "2026-02-06T00:00:07Z",
+        "urgency_score": 0.5418993952519786,
+        "words": 76,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-008",
+        "event_time": "2026-02-06T00:00:08Z",
+        "urgency_score": 0.6935689155733693,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-009",
+        "event_time": "2026-02-06T00:00:09Z",
+        "urgency_score": 0.12499464823451546,
+        "words": 15,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-010",
+        "event_time": "2026-02-06T00:00:10Z",
+        "urgency_score": 0.651297578797535,
+        "words": 76,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-011",
+        "event_time": "2026-02-06T00:00:11Z",
+        "urgency_score": 0.5606914805193534,
+        "words": 85,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-012",
+        "event_time": "2026-02-06T00:00:12Z",
+        "urgency_score": 0.6703730200296182,
+        "words": 75,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-013",
+        "event_time": "2026-02-06T00:00:13Z",
+        "urgency_score": 0.12170676954184369,
+        "words": 24,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-014",
+        "event_time": "2026-02-06T00:00:14Z",
+        "urgency_score": 0.2683888355875092,
+        "words": 15,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-015",
+        "event_time": "2026-02-06T00:00:15Z",
+        "urgency_score": 0.6801578324453978,
+        "words": 80,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-016",
+        "event_time": "2026-02-06T00:00:16Z",
+        "urgency_score": 0.4479474094447105,
+        "words": 15,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-017",
+        "event_time": "2026-02-06T00:00:17Z",
+        "urgency_score": 0.6828198134932455,
+        "words": 84,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-018",
+        "event_time": "2026-02-06T00:00:18Z",
+        "urgency_score": 0.3511686920955376,
+        "words": 22,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-019",
+        "event_time": "2026-02-06T00:00:19Z",
+        "urgency_score": 0.9037256428842153,
+        "words": 80,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-020",
+        "event_time": "2026-02-06T00:00:20Z",
+        "urgency_score": 0.13142656444061568,
+        "words": 22,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-021",
+        "event_time": "2026-02-06T00:00:21Z",
+        "urgency_score": 0.3493440136098811,
+        "words": 19,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-022",
+        "event_time": "2026-02-06T00:00:22Z",
+        "urgency_score": 0.5202702366084527,
+        "words": 79,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-023",
+        "event_time": "2026-02-06T00:00:23Z",
+        "urgency_score": 0.6888927349027194,
+        "words": 81,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-024",
+        "event_time": "2026-02-06T00:00:24Z",
+        "urgency_score": 0.0844873664398008,
+        "words": 26,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-025",
+        "event_time": "2026-02-06T00:00:25Z",
+        "urgency_score": 0.8352128077250334,
+        "words": 82,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-026",
+        "event_time": "2026-02-06T00:00:26Z",
+        "urgency_score": 0.12498817451338287,
+        "words": 23,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-027",
+        "event_time": "2026-02-06T00:00:27Z",
+        "urgency_score": 0.254156428689913,
+        "words": 11,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-028",
+        "event_time": "2026-02-06T00:00:28Z",
+        "urgency_score": 0.5498338782320192,
+        "words": 78,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-029",
+        "event_time": "2026-02-06T00:00:29Z",
+        "urgency_score": 0.24258132551495393,
+        "words": 24,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-030",
+        "event_time": "2026-02-06T00:00:30Z",
+        "urgency_score": 0.6245699061235316,
+        "words": 82,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-031",
+        "event_time": "2026-02-06T00:00:31Z",
+        "urgency_score": 0.04802458336869496,
+        "words": 25,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-032",
+        "event_time": "2026-02-06T00:00:32Z",
+        "urgency_score": 0.8677734794425327,
+        "words": 76,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-033",
+        "event_time": "2026-02-06T00:00:33Z",
+        "urgency_score": 0.6965461913213451,
+        "words": 81,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-034",
+        "event_time": "2026-02-06T00:00:34Z",
+        "urgency_score": 0.28721103729480857,
+        "words": 18,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-035",
+        "event_time": "2026-02-06T00:00:35Z",
+        "urgency_score": 0.11768196677805669,
+        "words": 13,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-036",
+        "event_time": "2026-02-06T00:00:36Z",
+        "urgency_score": 0.19948144220680963,
+        "words": 18,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-037",
+        "event_time": "2026-02-06T00:00:37Z",
+        "urgency_score": 0.6638733710954419,
+        "words": 84,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-038",
+        "event_time": "2026-02-06T00:00:38Z",
+        "urgency_score": 0.5266064188426713,
+        "words": 77,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-039",
+        "event_time": "2026-02-06T00:00:39Z",
+        "urgency_score": 0.3968422454858163,
+        "words": 16,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-040",
+        "event_time": "2026-02-06T00:00:40Z",
+        "urgency_score": 0.35400765193928424,
+        "words": 23,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-041",
+        "event_time": "2026-02-06T00:00:41Z",
+        "urgency_score": 0.6977488265081409,
+        "words": 75,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-042",
+        "event_time": "2026-02-06T00:00:42Z",
+        "urgency_score": 0.9019352766119325,
+        "words": 75,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-043",
+        "event_time": "2026-02-06T00:00:43Z",
+        "urgency_score": 0.13314718655519045,
+        "words": 17,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-044",
+        "event_time": "2026-02-06T00:00:44Z",
+        "urgency_score": 0.1322709478119219,
+        "words": 18,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-045",
+        "event_time": "2026-02-06T00:00:45Z",
+        "urgency_score": 0.42150954196280827,
+        "words": 22,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-046",
+        "event_time": "2026-02-06T00:00:46Z",
+        "urgency_score": 0.5718138030794379,
+        "words": 76,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-047",
+        "event_time": "2026-02-06T00:00:47Z",
+        "urgency_score": 0.6856956094681811,
+        "words": 82,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-048",
+        "event_time": "2026-02-06T00:00:48Z",
+        "urgency_score": 0.9134671401970355,
+        "words": 81,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-049",
+        "event_time": "2026-02-06T00:00:49Z",
+        "urgency_score": 0.15468467369388514,
+        "words": 22,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-050",
+        "event_time": "2026-02-06T00:00:50Z",
+        "urgency_score": 0.8283058055710861,
+        "words": 74,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-051",
+        "event_time": "2026-02-06T00:00:51Z",
+        "urgency_score": 0.4852245626678565,
+        "words": 15,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-052",
+        "event_time": "2026-02-06T00:00:52Z",
+        "urgency_score": 0.8026073030277073,
+        "words": 85,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-053",
+        "event_time": "2026-02-06T00:00:53Z",
+        "urgency_score": 0.4127689744331598,
+        "words": 19,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-054",
+        "event_time": "2026-02-06T00:00:54Z",
+        "urgency_score": 0.41900521786314743,
+        "words": 22,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-055",
+        "event_time": "2026-02-06T00:00:55Z",
+        "urgency_score": 0.5627818872751762,
+        "words": 76,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-056",
+        "event_time": "2026-02-06T00:00:56Z",
+        "urgency_score": 0.30040631317635835,
+        "words": 19,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-057",
+        "event_time": "2026-02-06T00:00:57Z",
+        "urgency_score": 0.7695105895327666,
+        "words": 85,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-058",
+        "event_time": "2026-02-06T00:00:58Z",
+        "urgency_score": 0.7328175218525955,
+        "words": 81,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-059",
+        "event_time": "2026-02-06T00:00:59Z",
+        "urgency_score": 0.5698054917874811,
+        "words": 75,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-060",
+        "event_time": "2026-02-06T00:01:00Z",
+        "urgency_score": 0.7641085067494356,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-061",
+        "event_time": "2026-02-06T00:01:01Z",
+        "urgency_score": 0.749603965656616,
+        "words": 77,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-062",
+        "event_time": "2026-02-06T00:01:02Z",
+        "urgency_score": 0.544499143733086,
+        "words": 82,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-063",
+        "event_time": "2026-02-06T00:01:03Z",
+        "urgency_score": 0.7412916749539253,
+        "words": 80,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-064",
+        "event_time": "2026-02-06T00:01:04Z",
+        "urgency_score": 0.8598174524258089,
+        "words": 83,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-065",
+        "event_time": "2026-02-06T00:01:05Z",
+        "urgency_score": 0.44150710724799963,
+        "words": 21,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-066",
+        "event_time": "2026-02-06T00:01:06Z",
+        "urgency_score": 0.7646063838855427,
+        "words": 81,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-067",
+        "event_time": "2026-02-06T00:01:07Z",
+        "urgency_score": 0.681568243627292,
+        "words": 87,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-068",
+        "event_time": "2026-02-06T00:01:08Z",
+        "urgency_score": 0.6058513305146978,
+        "words": 75,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-069",
+        "event_time": "2026-02-06T00:01:09Z",
+        "urgency_score": 0.8009886708756163,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-070",
+        "event_time": "2026-02-06T00:01:10Z",
+        "urgency_score": 0.5672713710127983,
+        "words": 75,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-071",
+        "event_time": "2026-02-06T00:01:11Z",
+        "urgency_score": 0.33070747122049443,
+        "words": 19,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-072",
+        "event_time": "2026-02-06T00:01:12Z",
+        "urgency_score": 0.30092931000709466,
+        "words": 11,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-073",
+        "event_time": "2026-02-06T00:01:13Z",
+        "urgency_score": 0.9660687701713224,
+        "words": 76,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-074",
+        "event_time": "2026-02-06T00:01:14Z",
+        "urgency_score": 0.8025736696378599,
+        "words": 84,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-075",
+        "event_time": "2026-02-06T00:01:15Z",
+        "urgency_score": 0.9020179633566323,
+        "words": 85,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-076",
+        "event_time": "2026-02-06T00:01:16Z",
+        "urgency_score": 0.8523656868164273,
+        "words": 86,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-077",
+        "event_time": "2026-02-06T00:01:17Z",
+        "urgency_score": 0.16039370568796285,
+        "words": 26,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-078",
+        "event_time": "2026-02-06T00:01:18Z",
+        "urgency_score": 0.8153425305906873,
+        "words": 80,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-079",
+        "event_time": "2026-02-06T00:01:19Z",
+        "urgency_score": 0.15648476775235312,
+        "words": 14,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-080",
+        "event_time": "2026-02-06T00:01:20Z",
+        "urgency_score": 0.2779684660039865,
+        "words": 16,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-081",
+        "event_time": "2026-02-06T00:01:21Z",
+        "urgency_score": 0.7828146854409581,
+        "words": 82,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-082",
+        "event_time": "2026-02-06T00:01:22Z",
+        "urgency_score": 0.4067367423697481,
+        "words": 20,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-083",
+        "event_time": "2026-02-06T00:01:23Z",
+        "urgency_score": 0.456507823111444,
+        "words": 14,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-084",
+        "event_time": "2026-02-06T00:01:24Z",
+        "urgency_score": 0.3341977089544931,
+        "words": 27,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-085",
+        "event_time": "2026-02-06T00:01:25Z",
+        "urgency_score": 0.10941599176596586,
+        "words": 20,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-086",
+        "event_time": "2026-02-06T00:01:26Z",
+        "urgency_score": 0.6294469237147128,
+        "words": 77,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-087",
+        "event_time": "2026-02-06T00:01:27Z",
+        "urgency_score": 0.40180723346111724,
+        "words": 13,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-088",
+        "event_time": "2026-02-06T00:01:28Z",
+        "urgency_score": 0.8118537417305812,
+        "words": 76,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-089",
+        "event_time": "2026-02-06T00:01:29Z",
+        "urgency_score": 0.34424494896395585,
+        "words": 20,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-090",
+        "event_time": "2026-02-06T00:01:30Z",
+        "urgency_score": 0.14537048029524394,
+        "words": 24,
+        "channel": "email"
+      },
+      {
+        "event_id": "w05-091",
+        "event_time": "2026-02-06T00:01:31Z",
+        "urgency_score": 0.7517638615256017,
+        "words": 74,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-092",
+        "event_time": "2026-02-06T00:01:32Z",
+        "urgency_score": 0.11559175223955762,
+        "words": 21,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-093",
+        "event_time": "2026-02-06T00:01:33Z",
+        "urgency_score": 0.912255560333621,
+        "words": 76,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-094",
+        "event_time": "2026-02-06T00:01:34Z",
+        "urgency_score": 0.4436345109213695,
+        "words": 30,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-095",
+        "event_time": "2026-02-06T00:01:35Z",
+        "urgency_score": 0.9758663059849157,
+        "words": 80,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-096",
+        "event_time": "2026-02-06T00:01:36Z",
+        "urgency_score": 0.866861853480319,
+        "words": 77,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-097",
+        "event_time": "2026-02-06T00:01:37Z",
+        "urgency_score": 0.10960638514462438,
+        "words": 28,
+        "channel": "chat"
+      },
+      {
+        "event_id": "w05-098",
+        "event_time": "2026-02-06T00:01:38Z",
+        "urgency_score": 0.2603737074071445,
+        "words": 14,
+        "channel": "web"
+      },
+      {
+        "event_id": "w05-099",
+        "event_time": "2026-02-06T00:01:39Z",
+        "urgency_score": 0.06971578404670879,
+        "words": 26,
+        "channel": "email"
+      }
+    ]
+  }
+]

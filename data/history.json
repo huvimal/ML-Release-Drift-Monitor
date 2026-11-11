@@ -1,0 +1,4502 @@
+[
+  {
+    "event_id": "history-0000",
+    "event_time": "2026-01-01T00:00:00Z",
+    "urgency_score": 0.6338497265195684,
+    "words": 83,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0001",
+    "event_time": "2026-01-01T00:01:00Z",
+    "urgency_score": 0.15395641138413813,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0002",
+    "event_time": "2026-01-01T00:02:00Z",
+    "urgency_score": 0.6696315079259948,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0003",
+    "event_time": "2026-01-01T00:03:00Z",
+    "urgency_score": 0.05051137230251225,
+    "words": 19,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0004",
+    "event_time": "2026-01-01T00:04:00Z",
+    "urgency_score": 0.2298924558114592,
+    "words": 19,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0005",
+    "event_time": "2026-01-01T00:05:00Z",
+    "urgency_score": 0.7073788284055074,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0006",
+    "event_time": "2026-01-01T00:06:00Z",
+    "urgency_score": 0.543143821379088,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0007",
+    "event_time": "2026-01-01T00:07:00Z",
+    "urgency_score": 0.7484550724445765,
+    "words": 85,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0008",
+    "event_time": "2026-01-01T00:08:00Z",
+    "urgency_score": 0.6902138191886977,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0009",
+    "event_time": "2026-01-01T00:09:00Z",
+    "urgency_score": 0.11812186545905476,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0010",
+    "event_time": "2026-01-01T00:10:00Z",
+    "urgency_score": 0.11284772176012545,
+    "words": 23,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0011",
+    "event_time": "2026-01-01T00:11:00Z",
+    "urgency_score": 0.7205425152260652,
+    "words": 76,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0012",
+    "event_time": "2026-01-01T00:12:00Z",
+    "urgency_score": 0.13983311633908097,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0013",
+    "event_time": "2026-01-01T00:13:00Z",
+    "urgency_score": 0.8162284776828751,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0014",
+    "event_time": "2026-01-01T00:14:00Z",
+    "urgency_score": 0.8700336780193345,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0015",
+    "event_time": "2026-01-01T00:15:00Z",
+    "urgency_score": 0.06399140830943573,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0016",
+    "event_time": "2026-01-01T00:16:00Z",
+    "urgency_score": 0.7621456071571442,
+    "words": 88,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0017",
+    "event_time": "2026-01-01T00:17:00Z",
+    "urgency_score": 0.3849211760375995,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0018",
+    "event_time": "2026-01-01T00:18:00Z",
+    "urgency_score": 0.6302570664938242,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0019",
+    "event_time": "2026-01-01T00:19:00Z",
+    "urgency_score": 0.6633681674025856,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0020",
+    "event_time": "2026-01-01T00:20:00Z",
+    "urgency_score": 0.9191884042039942,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0021",
+    "event_time": "2026-01-01T00:21:00Z",
+    "urgency_score": 0.5327742819485197,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0022",
+    "event_time": "2026-01-01T00:22:00Z",
+    "urgency_score": 0.17686639401145124,
+    "words": 11,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0023",
+    "event_time": "2026-01-01T00:23:00Z",
+    "urgency_score": 0.6806354800959806,
+    "words": 88,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0024",
+    "event_time": "2026-01-01T00:24:00Z",
+    "urgency_score": 0.6772296809502796,
+    "words": 84,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0025",
+    "event_time": "2026-01-01T00:25:00Z",
+    "urgency_score": 0.808930490246536,
+    "words": 74,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0026",
+    "event_time": "2026-01-01T00:26:00Z",
+    "urgency_score": 0.4051181955414358,
+    "words": 28,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0027",
+    "event_time": "2026-01-01T00:27:00Z",
+    "urgency_score": 0.8613129214137621,
+    "words": 84,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0028",
+    "event_time": "2026-01-01T00:28:00Z",
+    "urgency_score": 0.22412148229197495,
+    "words": 12,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0029",
+    "event_time": "2026-01-01T00:29:00Z",
+    "urgency_score": 0.46049777848390283,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0030",
+    "event_time": "2026-01-01T00:30:00Z",
+    "urgency_score": 0.15404510674448604,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0031",
+    "event_time": "2026-01-01T00:31:00Z",
+    "urgency_score": 0.5812025506145989,
+    "words": 75,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0032",
+    "event_time": "2026-01-01T00:32:00Z",
+    "urgency_score": 0.4034244849347814,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0033",
+    "event_time": "2026-01-01T00:33:00Z",
+    "urgency_score": 0.4937752014940458,
+    "words": 34,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0034",
+    "event_time": "2026-01-01T00:34:00Z",
+    "urgency_score": 0.8466587932799992,
+    "words": 81,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0035",
+    "event_time": "2026-01-01T00:35:00Z",
+    "urgency_score": 0.4252735681276967,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0036",
+    "event_time": "2026-01-01T00:36:00Z",
+    "urgency_score": 0.3893766192075201,
+    "words": 16,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0037",
+    "event_time": "2026-01-01T00:37:00Z",
+    "urgency_score": 0.9522352425090734,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0038",
+    "event_time": "2026-01-01T00:38:00Z",
+    "urgency_score": 0.6730720738462578,
+    "words": 86,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0039",
+    "event_time": "2026-01-01T00:39:00Z",
+    "urgency_score": 0.7578547833511481,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0040",
+    "event_time": "2026-01-01T00:40:00Z",
+    "urgency_score": 0.12709008665204138,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0041",
+    "event_time": "2026-01-01T00:41:00Z",
+    "urgency_score": 0.8608188227630663,
+    "words": 82,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0042",
+    "event_time": "2026-01-01T00:42:00Z",
+    "urgency_score": 0.9530125749153097,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0043",
+    "event_time": "2026-01-01T00:43:00Z",
+    "urgency_score": 0.8556978270432962,
+    "words": 75,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0044",
+    "event_time": "2026-01-01T00:44:00Z",
+    "urgency_score": 0.8280025742455683,
+    "words": 77,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0045",
+    "event_time": "2026-01-01T00:45:00Z",
+    "urgency_score": 0.7520103680721452,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0046",
+    "event_time": "2026-01-01T00:46:00Z",
+    "urgency_score": 0.9353597577473627,
+    "words": 88,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0047",
+    "event_time": "2026-01-01T00:47:00Z",
+    "urgency_score": 0.33118981472448616,
+    "words": 16,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0048",
+    "event_time": "2026-01-01T00:48:00Z",
+    "urgency_score": 0.12739301630805924,
+    "words": 12,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0049",
+    "event_time": "2026-01-01T00:49:00Z",
+    "urgency_score": 0.24987421792453643,
+    "words": 29,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0050",
+    "event_time": "2026-01-01T00:50:00Z",
+    "urgency_score": 0.8628892152358789,
+    "words": 82,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0051",
+    "event_time": "2026-01-01T00:51:00Z",
+    "urgency_score": 0.803382323283285,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0052",
+    "event_time": "2026-01-01T00:52:00Z",
+    "urgency_score": 0.7552010521347082,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0053",
+    "event_time": "2026-01-01T00:53:00Z",
+    "urgency_score": 0.17852188061516253,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0054",
+    "event_time": "2026-01-01T00:54:00Z",
+    "urgency_score": 0.8575357194418471,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0055",
+    "event_time": "2026-01-01T00:55:00Z",
+    "urgency_score": 0.7450545887703732,
+    "words": 81,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0056",
+    "event_time": "2026-01-01T00:56:00Z",
+    "urgency_score": 0.21310502085410804,
+    "words": 15,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0057",
+    "event_time": "2026-01-01T00:57:00Z",
+    "urgency_score": 0.3784836824281221,
+    "words": 32,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0058",
+    "event_time": "2026-01-01T00:58:00Z",
+    "urgency_score": 0.45342669573548455,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0059",
+    "event_time": "2026-01-01T00:59:00Z",
+    "urgency_score": 0.584776369718944,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0060",
+    "event_time": "2026-01-01T01:00:00Z",
+    "urgency_score": 0.584902509833937,
+    "words": 86,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0061",
+    "event_time": "2026-01-01T01:01:00Z",
+    "urgency_score": 0.23978411245870818,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0062",
+    "event_time": "2026-01-01T01:02:00Z",
+    "urgency_score": 0.8452499842435967,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0063",
+    "event_time": "2026-01-01T01:03:00Z",
+    "urgency_score": 0.4859979191844711,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0064",
+    "event_time": "2026-01-01T01:04:00Z",
+    "urgency_score": 0.14701937477602398,
+    "words": 25,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0065",
+    "event_time": "2026-01-01T01:05:00Z",
+    "urgency_score": 0.25327735269989554,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0066",
+    "event_time": "2026-01-01T01:06:00Z",
+    "urgency_score": 0.7951971178559777,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0067",
+    "event_time": "2026-01-01T01:07:00Z",
+    "urgency_score": 0.3601256639259717,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0068",
+    "event_time": "2026-01-01T01:08:00Z",
+    "urgency_score": 0.468343681315208,
+    "words": 19,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0069",
+    "event_time": "2026-01-01T01:09:00Z",
+    "urgency_score": 0.11448115630588053,
+    "words": 14,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0070",
+    "event_time": "2026-01-01T01:10:00Z",
+    "urgency_score": 0.7190850449035353,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0071",
+    "event_time": "2026-01-01T01:11:00Z",
+    "urgency_score": 0.20260055210317904,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0072",
+    "event_time": "2026-01-01T01:12:00Z",
+    "urgency_score": 0.1545750052109835,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0073",
+    "event_time": "2026-01-01T01:13:00Z",
+    "urgency_score": 0.44540551525131866,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0074",
+    "event_time": "2026-01-01T01:14:00Z",
+    "urgency_score": 0.11399237907353633,
+    "words": 17,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0075",
+    "event_time": "2026-01-01T01:15:00Z",
+    "urgency_score": 0.9502364069933612,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0076",
+    "event_time": "2026-01-01T01:16:00Z",
+    "urgency_score": 0.17965866617975743,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0077",
+    "event_time": "2026-01-01T01:17:00Z",
+    "urgency_score": 0.8863451508901267,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0078",
+    "event_time": "2026-01-01T01:18:00Z",
+    "urgency_score": 0.38381419421783947,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0079",
+    "event_time": "2026-01-01T01:19:00Z",
+    "urgency_score": 0.29383925978904346,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0080",
+    "event_time": "2026-01-01T01:20:00Z",
+    "urgency_score": 0.9390249352252863,
+    "words": 85,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0081",
+    "event_time": "2026-01-01T01:21:00Z",
+    "urgency_score": 0.4872045551881563,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0082",
+    "event_time": "2026-01-01T01:22:00Z",
+    "urgency_score": 0.30483951247478164,
+    "words": 25,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0083",
+    "event_time": "2026-01-01T01:23:00Z",
+    "urgency_score": 0.07851926861745519,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0084",
+    "event_time": "2026-01-01T01:24:00Z",
+    "urgency_score": 0.07487866199118376,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0085",
+    "event_time": "2026-01-01T01:25:00Z",
+    "urgency_score": 0.17113541882190392,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0086",
+    "event_time": "2026-01-01T01:26:00Z",
+    "urgency_score": 0.0969070066309634,
+    "words": 22,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0087",
+    "event_time": "2026-01-01T01:27:00Z",
+    "urgency_score": 0.8473464338913242,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0088",
+    "event_time": "2026-01-01T01:28:00Z",
+    "urgency_score": 0.13509114938923922,
+    "words": 22,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0089",
+    "event_time": "2026-01-01T01:29:00Z",
+    "urgency_score": 0.05815199579750181,
+    "words": 18,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0090",
+    "event_time": "2026-01-01T01:30:00Z",
+    "urgency_score": 0.4224559187224376,
+    "words": 16,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0091",
+    "event_time": "2026-01-01T01:31:00Z",
+    "urgency_score": 0.21608883144659496,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0092",
+    "event_time": "2026-01-01T01:32:00Z",
+    "urgency_score": 0.32161650828375304,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0093",
+    "event_time": "2026-01-01T01:33:00Z",
+    "urgency_score": 0.30799719660681174,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0094",
+    "event_time": "2026-01-01T01:34:00Z",
+    "urgency_score": 0.9118575984372936,
+    "words": 81,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0095",
+    "event_time": "2026-01-01T01:35:00Z",
+    "urgency_score": 0.9785162632202646,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0096",
+    "event_time": "2026-01-01T01:36:00Z",
+    "urgency_score": 0.09033029225564768,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0097",
+    "event_time": "2026-01-01T01:37:00Z",
+    "urgency_score": 0.8656296067389819,
+    "words": 83,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0098",
+    "event_time": "2026-01-01T01:38:00Z",
+    "urgency_score": 0.3747460051893286,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0099",
+    "event_time": "2026-01-01T01:39:00Z",
+    "urgency_score": 0.31041645725973427,
+    "words": 26,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0100",
+    "event_time": "2026-01-01T01:40:00Z",
+    "urgency_score": 0.5277830648981793,
+    "words": 77,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0101",
+    "event_time": "2026-01-01T01:41:00Z",
+    "urgency_score": 0.11944304184148305,
+    "words": 16,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0102",
+    "event_time": "2026-01-01T01:42:00Z",
+    "urgency_score": 0.27388728462764256,
+    "words": 25,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0103",
+    "event_time": "2026-01-01T01:43:00Z",
+    "urgency_score": 0.28145428382222365,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0104",
+    "event_time": "2026-01-01T01:44:00Z",
+    "urgency_score": 0.22220446861466533,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0105",
+    "event_time": "2026-01-01T01:45:00Z",
+    "urgency_score": 0.5051926957740677,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0106",
+    "event_time": "2026-01-01T01:46:00Z",
+    "urgency_score": 0.8891230314361503,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0107",
+    "event_time": "2026-01-01T01:47:00Z",
+    "urgency_score": 0.8161741657973305,
+    "words": 79,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0108",
+    "event_time": "2026-01-01T01:48:00Z",
+    "urgency_score": 0.023403861524271007,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0109",
+    "event_time": "2026-01-01T01:49:00Z",
+    "urgency_score": 0.1751186972229307,
+    "words": 14,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0110",
+    "event_time": "2026-01-01T01:50:00Z",
+    "urgency_score": 0.5496132042813356,
+    "words": 79,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0111",
+    "event_time": "2026-01-01T01:51:00Z",
+    "urgency_score": 0.9272489014847735,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0112",
+    "event_time": "2026-01-01T01:52:00Z",
+    "urgency_score": 0.8877714286974974,
+    "words": 73,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0113",
+    "event_time": "2026-01-01T01:53:00Z",
+    "urgency_score": 0.5504240928751977,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0114",
+    "event_time": "2026-01-01T01:54:00Z",
+    "urgency_score": 0.14234769851085322,
+    "words": 17,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0115",
+    "event_time": "2026-01-01T01:55:00Z",
+    "urgency_score": 0.8829676510654156,
+    "words": 88,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0116",
+    "event_time": "2026-01-01T01:56:00Z",
+    "urgency_score": 0.6747840207781535,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0117",
+    "event_time": "2026-01-01T01:57:00Z",
+    "urgency_score": 0.8687693133929686,
+    "words": 77,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0118",
+    "event_time": "2026-01-01T01:58:00Z",
+    "urgency_score": 0.9548835417317975,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0119",
+    "event_time": "2026-01-01T01:59:00Z",
+    "urgency_score": 0.8500214683711654,
+    "words": 71,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0120",
+    "event_time": "2026-01-01T02:00:00Z",
+    "urgency_score": 0.8661595564767914,
+    "words": 86,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0121",
+    "event_time": "2026-01-01T02:01:00Z",
+    "urgency_score": 0.7710910363017264,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0122",
+    "event_time": "2026-01-01T02:02:00Z",
+    "urgency_score": 0.7901457333796533,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0123",
+    "event_time": "2026-01-01T02:03:00Z",
+    "urgency_score": 0.17282992926150198,
+    "words": 14,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0124",
+    "event_time": "2026-01-01T02:04:00Z",
+    "urgency_score": 0.12377180134683882,
+    "words": 25,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0125",
+    "event_time": "2026-01-01T02:05:00Z",
+    "urgency_score": 0.21158991682472178,
+    "words": 14,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0126",
+    "event_time": "2026-01-01T02:06:00Z",
+    "urgency_score": 0.35567208746808193,
+    "words": 23,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0127",
+    "event_time": "2026-01-01T02:07:00Z",
+    "urgency_score": 0.04271785731339346,
+    "words": 13,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0128",
+    "event_time": "2026-01-01T02:08:00Z",
+    "urgency_score": 0.40252733942219215,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0129",
+    "event_time": "2026-01-01T02:09:00Z",
+    "urgency_score": 0.35710028391944215,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0130",
+    "event_time": "2026-01-01T02:10:00Z",
+    "urgency_score": 0.40369124898565845,
+    "words": 25,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0131",
+    "event_time": "2026-01-01T02:11:00Z",
+    "urgency_score": 0.13072808177737047,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0132",
+    "event_time": "2026-01-01T02:12:00Z",
+    "urgency_score": 0.19142510352556508,
+    "words": 23,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0133",
+    "event_time": "2026-01-01T02:13:00Z",
+    "urgency_score": 0.5927084047882348,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0134",
+    "event_time": "2026-01-01T02:14:00Z",
+    "urgency_score": 0.7194032582265961,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0135",
+    "event_time": "2026-01-01T02:15:00Z",
+    "urgency_score": 0.13101995266815722,
+    "words": 25,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0136",
+    "event_time": "2026-01-01T02:16:00Z",
+    "urgency_score": 0.2024756235222042,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0137",
+    "event_time": "2026-01-01T02:17:00Z",
+    "urgency_score": 0.9085521588791193,
+    "words": 81,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0138",
+    "event_time": "2026-01-01T02:18:00Z",
+    "urgency_score": 0.6793828610379457,
+    "words": 86,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0139",
+    "event_time": "2026-01-01T02:19:00Z",
+    "urgency_score": 0.3696526129100136,
+    "words": 18,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0140",
+    "event_time": "2026-01-01T02:20:00Z",
+    "urgency_score": 0.9309195065324617,
+    "words": 85,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0141",
+    "event_time": "2026-01-01T02:21:00Z",
+    "urgency_score": 0.834094668326082,
+    "words": 77,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0142",
+    "event_time": "2026-01-01T02:22:00Z",
+    "urgency_score": 0.8840449616932077,
+    "words": 74,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0143",
+    "event_time": "2026-01-01T02:23:00Z",
+    "urgency_score": 0.40630437157541566,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0144",
+    "event_time": "2026-01-01T02:24:00Z",
+    "urgency_score": 0.552235978560122,
+    "words": 82,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0145",
+    "event_time": "2026-01-01T02:25:00Z",
+    "urgency_score": 0.6702252274618236,
+    "words": 86,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0146",
+    "event_time": "2026-01-01T02:26:00Z",
+    "urgency_score": 0.6108943193133253,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0147",
+    "event_time": "2026-01-01T02:27:00Z",
+    "urgency_score": 0.31171995129761965,
+    "words": 25,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0148",
+    "event_time": "2026-01-01T02:28:00Z",
+    "urgency_score": 0.4326926239902412,
+    "words": 15,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0149",
+    "event_time": "2026-01-01T02:29:00Z",
+    "urgency_score": 0.44411457616443484,
+    "words": 17,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0150",
+    "event_time": "2026-01-01T02:30:00Z",
+    "urgency_score": 0.22515334494953626,
+    "words": 12,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0151",
+    "event_time": "2026-01-01T02:31:00Z",
+    "urgency_score": 0.18290374035013252,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0152",
+    "event_time": "2026-01-01T02:32:00Z",
+    "urgency_score": 0.29243494879330634,
+    "words": 17,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0153",
+    "event_time": "2026-01-01T02:33:00Z",
+    "urgency_score": 0.8056865259551976,
+    "words": 75,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0154",
+    "event_time": "2026-01-01T02:34:00Z",
+    "urgency_score": 0.6658838437348804,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0155",
+    "event_time": "2026-01-01T02:35:00Z",
+    "urgency_score": 0.06436516936904808,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0156",
+    "event_time": "2026-01-01T02:36:00Z",
+    "urgency_score": 0.6068230141382529,
+    "words": 81,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0157",
+    "event_time": "2026-01-01T02:37:00Z",
+    "urgency_score": 0.5726440634329454,
+    "words": 76,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0158",
+    "event_time": "2026-01-01T02:38:00Z",
+    "urgency_score": 0.6885000804708847,
+    "words": 77,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0159",
+    "event_time": "2026-01-01T02:39:00Z",
+    "urgency_score": 0.6801175165572987,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0160",
+    "event_time": "2026-01-01T02:40:00Z",
+    "urgency_score": 0.7672835904966321,
+    "words": 81,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0161",
+    "event_time": "2026-01-01T02:41:00Z",
+    "urgency_score": 0.5172394404259911,
+    "words": 87,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0162",
+    "event_time": "2026-01-01T02:42:00Z",
+    "urgency_score": 0.5551095622720594,
+    "words": 82,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0163",
+    "event_time": "2026-01-01T02:43:00Z",
+    "urgency_score": 0.7893599376533739,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0164",
+    "event_time": "2026-01-01T02:44:00Z",
+    "urgency_score": 0.5298866104213651,
+    "words": 77,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0165",
+    "event_time": "2026-01-01T02:45:00Z",
+    "urgency_score": 0.6081462298512923,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0166",
+    "event_time": "2026-01-01T02:46:00Z",
+    "urgency_score": 0.8763394844873773,
+    "words": 72,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0167",
+    "event_time": "2026-01-01T02:47:00Z",
+    "urgency_score": 0.8813197791039317,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0168",
+    "event_time": "2026-01-01T02:48:00Z",
+    "urgency_score": 0.8470351133919317,
+    "words": 74,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0169",
+    "event_time": "2026-01-01T02:49:00Z",
+    "urgency_score": 0.2862188990055109,
+    "words": 22,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0170",
+    "event_time": "2026-01-01T02:50:00Z",
+    "urgency_score": 0.4852131363874561,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0171",
+    "event_time": "2026-01-01T02:51:00Z",
+    "urgency_score": 0.2942990248286264,
+    "words": 24,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0172",
+    "event_time": "2026-01-01T02:52:00Z",
+    "urgency_score": 0.3424136351564614,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0173",
+    "event_time": "2026-01-01T02:53:00Z",
+    "urgency_score": 0.2420110205390593,
+    "words": 19,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0174",
+    "event_time": "2026-01-01T02:54:00Z",
+    "urgency_score": 0.16669305591406205,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0175",
+    "event_time": "2026-01-01T02:55:00Z",
+    "urgency_score": 0.5409066948837588,
+    "words": 84,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0176",
+    "event_time": "2026-01-01T02:56:00Z",
+    "urgency_score": 0.0797750821602419,
+    "words": 22,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0177",
+    "event_time": "2026-01-01T02:57:00Z",
+    "urgency_score": 0.9282195522464965,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0178",
+    "event_time": "2026-01-01T02:58:00Z",
+    "urgency_score": 0.8424627510117768,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0179",
+    "event_time": "2026-01-01T02:59:00Z",
+    "urgency_score": 0.925031991136733,
+    "words": 76,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0180",
+    "event_time": "2026-01-01T03:00:00Z",
+    "urgency_score": 0.7433361200570104,
+    "words": 86,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0181",
+    "event_time": "2026-01-01T03:01:00Z",
+    "urgency_score": 0.5366917449058223,
+    "words": 72,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0182",
+    "event_time": "2026-01-01T03:02:00Z",
+    "urgency_score": 0.5442870173444855,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0183",
+    "event_time": "2026-01-01T03:03:00Z",
+    "urgency_score": 0.2820178992927263,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0184",
+    "event_time": "2026-01-01T03:04:00Z",
+    "urgency_score": 0.04786382714884663,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0185",
+    "event_time": "2026-01-01T03:05:00Z",
+    "urgency_score": 0.7152141225221972,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0186",
+    "event_time": "2026-01-01T03:06:00Z",
+    "urgency_score": 0.9027599558422169,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0187",
+    "event_time": "2026-01-01T03:07:00Z",
+    "urgency_score": 0.5882170646027944,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0188",
+    "event_time": "2026-01-01T03:08:00Z",
+    "urgency_score": 0.04601796448669994,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0189",
+    "event_time": "2026-01-01T03:09:00Z",
+    "urgency_score": 0.19445986545289484,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0190",
+    "event_time": "2026-01-01T03:10:00Z",
+    "urgency_score": 0.38393970962061397,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0191",
+    "event_time": "2026-01-01T03:11:00Z",
+    "urgency_score": 0.2871263510132538,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0192",
+    "event_time": "2026-01-01T03:12:00Z",
+    "urgency_score": 0.26218067051108535,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0193",
+    "event_time": "2026-01-01T03:13:00Z",
+    "urgency_score": 0.07000218391352525,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0194",
+    "event_time": "2026-01-01T03:14:00Z",
+    "urgency_score": 0.23525327909095822,
+    "words": 29,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0195",
+    "event_time": "2026-01-01T03:15:00Z",
+    "urgency_score": 0.7440638758971452,
+    "words": 84,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0196",
+    "event_time": "2026-01-01T03:16:00Z",
+    "urgency_score": 0.21138625506803158,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0197",
+    "event_time": "2026-01-01T03:17:00Z",
+    "urgency_score": 0.4746186185082829,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0198",
+    "event_time": "2026-01-01T03:18:00Z",
+    "urgency_score": 0.5614107986528184,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0199",
+    "event_time": "2026-01-01T03:19:00Z",
+    "urgency_score": 0.18107757763309015,
+    "words": 26,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0200",
+    "event_time": "2026-01-01T03:20:00Z",
+    "urgency_score": 0.9451853543371603,
+    "words": 79,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0201",
+    "event_time": "2026-01-01T03:21:00Z",
+    "urgency_score": 0.9461319421127241,
+    "words": 73,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0202",
+    "event_time": "2026-01-01T03:22:00Z",
+    "urgency_score": 0.5755373432088738,
+    "words": 85,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0203",
+    "event_time": "2026-01-01T03:23:00Z",
+    "urgency_score": 0.4007882638559622,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0204",
+    "event_time": "2026-01-01T03:24:00Z",
+    "urgency_score": 0.21039658600804667,
+    "words": 14,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0205",
+    "event_time": "2026-01-01T03:25:00Z",
+    "urgency_score": 0.11782525322813747,
+    "words": 16,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0206",
+    "event_time": "2026-01-01T03:26:00Z",
+    "urgency_score": 0.8362815095252444,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0207",
+    "event_time": "2026-01-01T03:27:00Z",
+    "urgency_score": 0.7713299325065788,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0208",
+    "event_time": "2026-01-01T03:28:00Z",
+    "urgency_score": 0.5314354354980803,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0209",
+    "event_time": "2026-01-01T03:29:00Z",
+    "urgency_score": 0.34758192786683184,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0210",
+    "event_time": "2026-01-01T03:30:00Z",
+    "urgency_score": 0.8094376813664558,
+    "words": 88,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0211",
+    "event_time": "2026-01-01T03:31:00Z",
+    "urgency_score": 0.875912014212899,
+    "words": 86,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0212",
+    "event_time": "2026-01-01T03:32:00Z",
+    "urgency_score": 0.6990162979578338,
+    "words": 74,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0213",
+    "event_time": "2026-01-01T03:33:00Z",
+    "urgency_score": 0.2792791005319048,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0214",
+    "event_time": "2026-01-01T03:34:00Z",
+    "urgency_score": 0.7636557923567117,
+    "words": 73,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0215",
+    "event_time": "2026-01-01T03:35:00Z",
+    "urgency_score": 0.27765971652725635,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0216",
+    "event_time": "2026-01-01T03:36:00Z",
+    "urgency_score": 0.8175017781349793,
+    "words": 87,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0217",
+    "event_time": "2026-01-01T03:37:00Z",
+    "urgency_score": 0.740457230553926,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0218",
+    "event_time": "2026-01-01T03:38:00Z",
+    "urgency_score": 0.6059184360612998,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0219",
+    "event_time": "2026-01-01T03:39:00Z",
+    "urgency_score": 0.19456626287138412,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0220",
+    "event_time": "2026-01-01T03:40:00Z",
+    "urgency_score": 0.36063196752905147,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0221",
+    "event_time": "2026-01-01T03:41:00Z",
+    "urgency_score": 0.6931364003189135,
+    "words": 83,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0222",
+    "event_time": "2026-01-01T03:42:00Z",
+    "urgency_score": 0.5535593868028005,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0223",
+    "event_time": "2026-01-01T03:43:00Z",
+    "urgency_score": 0.7112716775400265,
+    "words": 80,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0224",
+    "event_time": "2026-01-01T03:44:00Z",
+    "urgency_score": 0.5529691631185863,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0225",
+    "event_time": "2026-01-01T03:45:00Z",
+    "urgency_score": 0.4911884816754427,
+    "words": 25,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0226",
+    "event_time": "2026-01-01T03:46:00Z",
+    "urgency_score": 0.10933121653248482,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0227",
+    "event_time": "2026-01-01T03:47:00Z",
+    "urgency_score": 0.6574016207329434,
+    "words": 86,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0228",
+    "event_time": "2026-01-01T03:48:00Z",
+    "urgency_score": 0.4743300692091438,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0229",
+    "event_time": "2026-01-01T03:49:00Z",
+    "urgency_score": 0.5483729338464114,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0230",
+    "event_time": "2026-01-01T03:50:00Z",
+    "urgency_score": 0.6947407444983382,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0231",
+    "event_time": "2026-01-01T03:51:00Z",
+    "urgency_score": 0.7124329580730269,
+    "words": 83,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0232",
+    "event_time": "2026-01-01T03:52:00Z",
+    "urgency_score": 0.13477255160485072,
+    "words": 13,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0233",
+    "event_time": "2026-01-01T03:53:00Z",
+    "urgency_score": 0.20387933409012293,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0234",
+    "event_time": "2026-01-01T03:54:00Z",
+    "urgency_score": 0.48483064372420037,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0235",
+    "event_time": "2026-01-01T03:55:00Z",
+    "urgency_score": 0.5929191108918097,
+    "words": 69,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0236",
+    "event_time": "2026-01-01T03:56:00Z",
+    "urgency_score": 0.8193232287939852,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0237",
+    "event_time": "2026-01-01T03:57:00Z",
+    "urgency_score": 0.03358243256582128,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0238",
+    "event_time": "2026-01-01T03:58:00Z",
+    "urgency_score": 0.14151964145406234,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0239",
+    "event_time": "2026-01-01T03:59:00Z",
+    "urgency_score": 0.6895206971937866,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0240",
+    "event_time": "2026-01-01T04:00:00Z",
+    "urgency_score": 0.6323548689016905,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0241",
+    "event_time": "2026-01-01T04:01:00Z",
+    "urgency_score": 0.571101650841279,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0242",
+    "event_time": "2026-01-01T04:02:00Z",
+    "urgency_score": 0.4795656402621421,
+    "words": 14,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0243",
+    "event_time": "2026-01-01T04:03:00Z",
+    "urgency_score": 0.9234210528973791,
+    "words": 89,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0244",
+    "event_time": "2026-01-01T04:04:00Z",
+    "urgency_score": 0.12952365509592756,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0245",
+    "event_time": "2026-01-01T04:05:00Z",
+    "urgency_score": 0.6242678786739184,
+    "words": 82,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0246",
+    "event_time": "2026-01-01T04:06:00Z",
+    "urgency_score": 0.16565792667291815,
+    "words": 24,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0247",
+    "event_time": "2026-01-01T04:07:00Z",
+    "urgency_score": 0.9741613978018113,
+    "words": 71,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0248",
+    "event_time": "2026-01-01T04:08:00Z",
+    "urgency_score": 0.5557501132329233,
+    "words": 75,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0249",
+    "event_time": "2026-01-01T04:09:00Z",
+    "urgency_score": 0.2366596515824332,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0250",
+    "event_time": "2026-01-01T04:10:00Z",
+    "urgency_score": 0.3851629051006874,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0251",
+    "event_time": "2026-01-01T04:11:00Z",
+    "urgency_score": 0.970430010048126,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0252",
+    "event_time": "2026-01-01T04:12:00Z",
+    "urgency_score": 0.5658842917992638,
+    "words": 89,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0253",
+    "event_time": "2026-01-01T04:13:00Z",
+    "urgency_score": 0.9296865923123628,
+    "words": 84,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0254",
+    "event_time": "2026-01-01T04:14:00Z",
+    "urgency_score": 0.620494429190339,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0255",
+    "event_time": "2026-01-01T04:15:00Z",
+    "urgency_score": 0.18686100639337708,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0256",
+    "event_time": "2026-01-01T04:16:00Z",
+    "urgency_score": 0.17027131082541258,
+    "words": 15,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0257",
+    "event_time": "2026-01-01T04:17:00Z",
+    "urgency_score": 0.2996089174697865,
+    "words": 23,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0258",
+    "event_time": "2026-01-01T04:18:00Z",
+    "urgency_score": 0.29658069400994175,
+    "words": 18,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0259",
+    "event_time": "2026-01-01T04:19:00Z",
+    "urgency_score": 0.679889523268393,
+    "words": 88,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0260",
+    "event_time": "2026-01-01T04:20:00Z",
+    "urgency_score": 0.7763149055808621,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0261",
+    "event_time": "2026-01-01T04:21:00Z",
+    "urgency_score": 0.4281334074600432,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0262",
+    "event_time": "2026-01-01T04:22:00Z",
+    "urgency_score": 0.23581707225538287,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0263",
+    "event_time": "2026-01-01T04:23:00Z",
+    "urgency_score": 0.08855344338158158,
+    "words": 23,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0264",
+    "event_time": "2026-01-01T04:24:00Z",
+    "urgency_score": 0.7809234235831152,
+    "words": 74,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0265",
+    "event_time": "2026-01-01T04:25:00Z",
+    "urgency_score": 0.4415873107267879,
+    "words": 16,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0266",
+    "event_time": "2026-01-01T04:26:00Z",
+    "urgency_score": 0.68113087156361,
+    "words": 77,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0267",
+    "event_time": "2026-01-01T04:27:00Z",
+    "urgency_score": 0.5383823000940935,
+    "words": 71,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0268",
+    "event_time": "2026-01-01T04:28:00Z",
+    "urgency_score": 0.09722417782332894,
+    "words": 24,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0269",
+    "event_time": "2026-01-01T04:29:00Z",
+    "urgency_score": 0.5995650953080742,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0270",
+    "event_time": "2026-01-01T04:30:00Z",
+    "urgency_score": 0.1076738111657458,
+    "words": 27,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0271",
+    "event_time": "2026-01-01T04:31:00Z",
+    "urgency_score": 0.5836380144413921,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0272",
+    "event_time": "2026-01-01T04:32:00Z",
+    "urgency_score": 0.9795895202023532,
+    "words": 79,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0273",
+    "event_time": "2026-01-01T04:33:00Z",
+    "urgency_score": 0.7525846440048373,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0274",
+    "event_time": "2026-01-01T04:34:00Z",
+    "urgency_score": 0.47168079032156823,
+    "words": 15,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0275",
+    "event_time": "2026-01-01T04:35:00Z",
+    "urgency_score": 0.9770676559352609,
+    "words": 73,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0276",
+    "event_time": "2026-01-01T04:36:00Z",
+    "urgency_score": 0.6293933306759234,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0277",
+    "event_time": "2026-01-01T04:37:00Z",
+    "urgency_score": 0.41201416969281474,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0278",
+    "event_time": "2026-01-01T04:38:00Z",
+    "urgency_score": 0.663328169140338,
+    "words": 82,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0279",
+    "event_time": "2026-01-01T04:39:00Z",
+    "urgency_score": 0.49565026012576424,
+    "words": 17,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0280",
+    "event_time": "2026-01-01T04:40:00Z",
+    "urgency_score": 0.9273857979806822,
+    "words": 82,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0281",
+    "event_time": "2026-01-01T04:41:00Z",
+    "urgency_score": 0.10453740106475702,
+    "words": 15,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0282",
+    "event_time": "2026-01-01T04:42:00Z",
+    "urgency_score": 0.3303428348249549,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0283",
+    "event_time": "2026-01-01T04:43:00Z",
+    "urgency_score": 0.8119301151379529,
+    "words": 79,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0284",
+    "event_time": "2026-01-01T04:44:00Z",
+    "urgency_score": 0.6513539710238038,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0285",
+    "event_time": "2026-01-01T04:45:00Z",
+    "urgency_score": 0.5177018167622996,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0286",
+    "event_time": "2026-01-01T04:46:00Z",
+    "urgency_score": 0.7461854278933507,
+    "words": 75,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0287",
+    "event_time": "2026-01-01T04:47:00Z",
+    "urgency_score": 0.2763739887420152,
+    "words": 15,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0288",
+    "event_time": "2026-01-01T04:48:00Z",
+    "urgency_score": 0.9105658504106698,
+    "words": 74,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0289",
+    "event_time": "2026-01-01T04:49:00Z",
+    "urgency_score": 0.0477146647439967,
+    "words": 22,
+    "channel": "email",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0290",
+    "event_time": "2026-01-01T04:50:00Z",
+    "urgency_score": 0.6045168003986864,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0291",
+    "event_time": "2026-01-01T04:51:00Z",
+    "urgency_score": 0.03312748588741826,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0292",
+    "event_time": "2026-01-01T04:52:00Z",
+    "urgency_score": 0.10948083323026164,
+    "words": 29,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0293",
+    "event_time": "2026-01-01T04:53:00Z",
+    "urgency_score": 0.9291783126649819,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0294",
+    "event_time": "2026-01-01T04:54:00Z",
+    "urgency_score": 0.8188574468181452,
+    "words": 74,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0295",
+    "event_time": "2026-01-01T04:55:00Z",
+    "urgency_score": 0.6971951647288196,
+    "words": 80,
+    "channel": "chat",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0296",
+    "event_time": "2026-01-01T04:56:00Z",
+    "urgency_score": 0.8213349877536266,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0297",
+    "event_time": "2026-01-01T04:57:00Z",
+    "urgency_score": 0.15885628974618438,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0298",
+    "event_time": "2026-01-01T04:58:00Z",
+    "urgency_score": 0.9049934239342994,
+    "words": 72,
+    "channel": "web",
+    "label": 1,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0299",
+    "event_time": "2026-01-01T04:59:00Z",
+    "urgency_score": 0.28519750670915933,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "train"
+  },
+  {
+    "event_id": "history-0300",
+    "event_time": "2026-01-01T05:00:00Z",
+    "urgency_score": 0.3462802333897237,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0301",
+    "event_time": "2026-01-01T05:01:00Z",
+    "urgency_score": 0.2915254239515136,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0302",
+    "event_time": "2026-01-01T05:02:00Z",
+    "urgency_score": 0.8239768857021644,
+    "words": 75,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0303",
+    "event_time": "2026-01-01T05:03:00Z",
+    "urgency_score": 0.4486854973214667,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0304",
+    "event_time": "2026-01-01T05:04:00Z",
+    "urgency_score": 0.3513189840252872,
+    "words": 15,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0305",
+    "event_time": "2026-01-01T05:05:00Z",
+    "urgency_score": 0.9155381654866506,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0306",
+    "event_time": "2026-01-01T05:06:00Z",
+    "urgency_score": 0.9615436460792905,
+    "words": 80,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0307",
+    "event_time": "2026-01-01T05:07:00Z",
+    "urgency_score": 0.061901407133409844,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0308",
+    "event_time": "2026-01-01T05:08:00Z",
+    "urgency_score": 0.4740572002307978,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0309",
+    "event_time": "2026-01-01T05:09:00Z",
+    "urgency_score": 0.7806979142719331,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0310",
+    "event_time": "2026-01-01T05:10:00Z",
+    "urgency_score": 0.9615854131133936,
+    "words": 79,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0311",
+    "event_time": "2026-01-01T05:11:00Z",
+    "urgency_score": 0.9467394465697796,
+    "words": 80,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0312",
+    "event_time": "2026-01-01T05:12:00Z",
+    "urgency_score": 0.8549123008277268,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0313",
+    "event_time": "2026-01-01T05:13:00Z",
+    "urgency_score": 0.8940240105886083,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0314",
+    "event_time": "2026-01-01T05:14:00Z",
+    "urgency_score": 0.7135460744678169,
+    "words": 75,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0315",
+    "event_time": "2026-01-01T05:15:00Z",
+    "urgency_score": 0.09183511831396046,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0316",
+    "event_time": "2026-01-01T05:16:00Z",
+    "urgency_score": 0.3450187846893744,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0317",
+    "event_time": "2026-01-01T05:17:00Z",
+    "urgency_score": 0.8382476831032574,
+    "words": 75,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0318",
+    "event_time": "2026-01-01T05:18:00Z",
+    "urgency_score": 0.38480902162174885,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0319",
+    "event_time": "2026-01-01T05:19:00Z",
+    "urgency_score": 0.8574876967025948,
+    "words": 86,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0320",
+    "event_time": "2026-01-01T05:20:00Z",
+    "urgency_score": 0.6127610831386142,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0321",
+    "event_time": "2026-01-01T05:21:00Z",
+    "urgency_score": 0.9775288860379667,
+    "words": 86,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0322",
+    "event_time": "2026-01-01T05:22:00Z",
+    "urgency_score": 0.1067641575382099,
+    "words": 27,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0323",
+    "event_time": "2026-01-01T05:23:00Z",
+    "urgency_score": 0.8576760633028071,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0324",
+    "event_time": "2026-01-01T05:24:00Z",
+    "urgency_score": 0.17971019526005613,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0325",
+    "event_time": "2026-01-01T05:25:00Z",
+    "urgency_score": 0.7842977265557233,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0326",
+    "event_time": "2026-01-01T05:26:00Z",
+    "urgency_score": 0.36412480860834895,
+    "words": 17,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0327",
+    "event_time": "2026-01-01T05:27:00Z",
+    "urgency_score": 0.5632909394392993,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0328",
+    "event_time": "2026-01-01T05:28:00Z",
+    "urgency_score": 0.18318430310537345,
+    "words": 27,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0329",
+    "event_time": "2026-01-01T05:29:00Z",
+    "urgency_score": 0.6758091967642054,
+    "words": 84,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0330",
+    "event_time": "2026-01-01T05:30:00Z",
+    "urgency_score": 0.8963158553826126,
+    "words": 83,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0331",
+    "event_time": "2026-01-01T05:31:00Z",
+    "urgency_score": 0.46118767920966175,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0332",
+    "event_time": "2026-01-01T05:32:00Z",
+    "urgency_score": 0.029021534196676198,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0333",
+    "event_time": "2026-01-01T05:33:00Z",
+    "urgency_score": 0.5447342120979473,
+    "words": 72,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0334",
+    "event_time": "2026-01-01T05:34:00Z",
+    "urgency_score": 0.4440605922596619,
+    "words": 17,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0335",
+    "event_time": "2026-01-01T05:35:00Z",
+    "urgency_score": 0.9435479099105043,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0336",
+    "event_time": "2026-01-01T05:36:00Z",
+    "urgency_score": 0.2600942954313932,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0337",
+    "event_time": "2026-01-01T05:37:00Z",
+    "urgency_score": 0.8392020403137783,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0338",
+    "event_time": "2026-01-01T05:38:00Z",
+    "urgency_score": 0.2477174738504716,
+    "words": 15,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0339",
+    "event_time": "2026-01-01T05:39:00Z",
+    "urgency_score": 0.30342152372793857,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0340",
+    "event_time": "2026-01-01T05:40:00Z",
+    "urgency_score": 0.39997351127491265,
+    "words": 28,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0341",
+    "event_time": "2026-01-01T05:41:00Z",
+    "urgency_score": 0.9546587041548078,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0342",
+    "event_time": "2026-01-01T05:42:00Z",
+    "urgency_score": 0.7353652679686112,
+    "words": 84,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0343",
+    "event_time": "2026-01-01T05:43:00Z",
+    "urgency_score": 0.6027823982376953,
+    "words": 73,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0344",
+    "event_time": "2026-01-01T05:44:00Z",
+    "urgency_score": 0.23024435737098123,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0345",
+    "event_time": "2026-01-01T05:45:00Z",
+    "urgency_score": 0.7567719435156455,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0346",
+    "event_time": "2026-01-01T05:46:00Z",
+    "urgency_score": 0.8248036322840159,
+    "words": 74,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0347",
+    "event_time": "2026-01-01T05:47:00Z",
+    "urgency_score": 0.05784567100238469,
+    "words": 14,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0348",
+    "event_time": "2026-01-01T05:48:00Z",
+    "urgency_score": 0.05202994999580714,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0349",
+    "event_time": "2026-01-01T05:49:00Z",
+    "urgency_score": 0.33365036068545,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0350",
+    "event_time": "2026-01-01T05:50:00Z",
+    "urgency_score": 0.18861446762653436,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0351",
+    "event_time": "2026-01-01T05:51:00Z",
+    "urgency_score": 0.5296182787546736,
+    "words": 84,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0352",
+    "event_time": "2026-01-01T05:52:00Z",
+    "urgency_score": 0.8172537147847014,
+    "words": 80,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0353",
+    "event_time": "2026-01-01T05:53:00Z",
+    "urgency_score": 0.9486887131201397,
+    "words": 87,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0354",
+    "event_time": "2026-01-01T05:54:00Z",
+    "urgency_score": 0.7366969766883632,
+    "words": 79,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0355",
+    "event_time": "2026-01-01T05:55:00Z",
+    "urgency_score": 0.15512673440564734,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0356",
+    "event_time": "2026-01-01T05:56:00Z",
+    "urgency_score": 0.8457349730228689,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0357",
+    "event_time": "2026-01-01T05:57:00Z",
+    "urgency_score": 0.3711440474293437,
+    "words": 9,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0358",
+    "event_time": "2026-01-01T05:58:00Z",
+    "urgency_score": 0.03336190889686513,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0359",
+    "event_time": "2026-01-01T05:59:00Z",
+    "urgency_score": 0.7390511393952903,
+    "words": 79,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0360",
+    "event_time": "2026-01-01T06:00:00Z",
+    "urgency_score": 0.5811776879860794,
+    "words": 84,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0361",
+    "event_time": "2026-01-01T06:01:00Z",
+    "urgency_score": 0.6678430931603091,
+    "words": 71,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0362",
+    "event_time": "2026-01-01T06:02:00Z",
+    "urgency_score": 0.04402366366062303,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0363",
+    "event_time": "2026-01-01T06:03:00Z",
+    "urgency_score": 0.2325125120710304,
+    "words": 17,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0364",
+    "event_time": "2026-01-01T06:04:00Z",
+    "urgency_score": 0.6299877654828215,
+    "words": 74,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0365",
+    "event_time": "2026-01-01T06:05:00Z",
+    "urgency_score": 0.41196402156359624,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0366",
+    "event_time": "2026-01-01T06:06:00Z",
+    "urgency_score": 0.06353293857284684,
+    "words": 33,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0367",
+    "event_time": "2026-01-01T06:07:00Z",
+    "urgency_score": 0.11330431867694873,
+    "words": 23,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0368",
+    "event_time": "2026-01-01T06:08:00Z",
+    "urgency_score": 0.15023748675808304,
+    "words": 14,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0369",
+    "event_time": "2026-01-01T06:09:00Z",
+    "urgency_score": 0.6886246319721275,
+    "words": 82,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0370",
+    "event_time": "2026-01-01T06:10:00Z",
+    "urgency_score": 0.4223616832781339,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0371",
+    "event_time": "2026-01-01T06:11:00Z",
+    "urgency_score": 0.6487250215937254,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0372",
+    "event_time": "2026-01-01T06:12:00Z",
+    "urgency_score": 0.6110261254891101,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0373",
+    "event_time": "2026-01-01T06:13:00Z",
+    "urgency_score": 0.37570876038505796,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0374",
+    "event_time": "2026-01-01T06:14:00Z",
+    "urgency_score": 0.4469080253879201,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0375",
+    "event_time": "2026-01-01T06:15:00Z",
+    "urgency_score": 0.3726415601572932,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0376",
+    "event_time": "2026-01-01T06:16:00Z",
+    "urgency_score": 0.3643268875638252,
+    "words": 18,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0377",
+    "event_time": "2026-01-01T06:17:00Z",
+    "urgency_score": 0.931050356731652,
+    "words": 82,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0378",
+    "event_time": "2026-01-01T06:18:00Z",
+    "urgency_score": 0.10800648686482002,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0379",
+    "event_time": "2026-01-01T06:19:00Z",
+    "urgency_score": 0.06855537023635808,
+    "words": 26,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0380",
+    "event_time": "2026-01-01T06:20:00Z",
+    "urgency_score": 0.25382614127746267,
+    "words": 24,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0381",
+    "event_time": "2026-01-01T06:21:00Z",
+    "urgency_score": 0.8166251237284472,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0382",
+    "event_time": "2026-01-01T06:22:00Z",
+    "urgency_score": 0.21887107553279214,
+    "words": 22,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0383",
+    "event_time": "2026-01-01T06:23:00Z",
+    "urgency_score": 0.7633938346926272,
+    "words": 88,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0384",
+    "event_time": "2026-01-01T06:24:00Z",
+    "urgency_score": 0.0227221294208157,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0385",
+    "event_time": "2026-01-01T06:25:00Z",
+    "urgency_score": 0.5386068385886253,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0386",
+    "event_time": "2026-01-01T06:26:00Z",
+    "urgency_score": 0.12552929397385812,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0387",
+    "event_time": "2026-01-01T06:27:00Z",
+    "urgency_score": 0.7783852776653637,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0388",
+    "event_time": "2026-01-01T06:28:00Z",
+    "urgency_score": 0.5852988051684246,
+    "words": 83,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0389",
+    "event_time": "2026-01-01T06:29:00Z",
+    "urgency_score": 0.7320493346759835,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0390",
+    "event_time": "2026-01-01T06:30:00Z",
+    "urgency_score": 0.12910333451508474,
+    "words": 24,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0391",
+    "event_time": "2026-01-01T06:31:00Z",
+    "urgency_score": 0.512708439304824,
+    "words": 82,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0392",
+    "event_time": "2026-01-01T06:32:00Z",
+    "urgency_score": 0.45392520311240214,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0393",
+    "event_time": "2026-01-01T06:33:00Z",
+    "urgency_score": 0.7718979161411644,
+    "words": 85,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0394",
+    "event_time": "2026-01-01T06:34:00Z",
+    "urgency_score": 0.5205931661245607,
+    "words": 70,
+    "channel": "web",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0395",
+    "event_time": "2026-01-01T06:35:00Z",
+    "urgency_score": 0.9786432848857538,
+    "words": 83,
+    "channel": "chat",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0396",
+    "event_time": "2026-01-01T06:36:00Z",
+    "urgency_score": 0.4292226745087921,
+    "words": 25,
+    "channel": "chat",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0397",
+    "event_time": "2026-01-01T06:37:00Z",
+    "urgency_score": 0.09055108713579248,
+    "words": 24,
+    "channel": "web",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0398",
+    "event_time": "2026-01-01T06:38:00Z",
+    "urgency_score": 0.32922734695647304,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0399",
+    "event_time": "2026-01-01T06:39:00Z",
+    "urgency_score": 0.6277536553289749,
+    "words": 82,
+    "channel": "email",
+    "label": 1,
+    "partition": "dev"
+  },
+  {
+    "event_id": "history-0400",
+    "event_time": "2026-01-01T06:40:00Z",
+    "urgency_score": 0.7036666845692546,
+    "words": 76,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0401",
+    "event_time": "2026-01-01T06:41:00Z",
+    "urgency_score": 0.45556680087245277,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0402",
+    "event_time": "2026-01-01T06:42:00Z",
+    "urgency_score": 0.43299135279067835,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0403",
+    "event_time": "2026-01-01T06:43:00Z",
+    "urgency_score": 0.6448799982860531,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0404",
+    "event_time": "2026-01-01T06:44:00Z",
+    "urgency_score": 0.7120063199912952,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0405",
+    "event_time": "2026-01-01T06:45:00Z",
+    "urgency_score": 0.41726102832983686,
+    "words": 24,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0406",
+    "event_time": "2026-01-01T06:46:00Z",
+    "urgency_score": 0.40278097688667513,
+    "words": 20,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0407",
+    "event_time": "2026-01-01T06:47:00Z",
+    "urgency_score": 0.6585035485378965,
+    "words": 77,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0408",
+    "event_time": "2026-01-01T06:48:00Z",
+    "urgency_score": 0.9354488169143599,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0409",
+    "event_time": "2026-01-01T06:49:00Z",
+    "urgency_score": 0.8185010129358603,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0410",
+    "event_time": "2026-01-01T06:50:00Z",
+    "urgency_score": 0.43460145780967063,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0411",
+    "event_time": "2026-01-01T06:51:00Z",
+    "urgency_score": 0.5541159061907361,
+    "words": 76,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0412",
+    "event_time": "2026-01-01T06:52:00Z",
+    "urgency_score": 0.9383596388930302,
+    "words": 74,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0413",
+    "event_time": "2026-01-01T06:53:00Z",
+    "urgency_score": 0.35945415644841694,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0414",
+    "event_time": "2026-01-01T06:54:00Z",
+    "urgency_score": 0.9234846740981405,
+    "words": 72,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0415",
+    "event_time": "2026-01-01T06:55:00Z",
+    "urgency_score": 0.9496626802990155,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0416",
+    "event_time": "2026-01-01T06:56:00Z",
+    "urgency_score": 0.3199509431241478,
+    "words": 24,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0417",
+    "event_time": "2026-01-01T06:57:00Z",
+    "urgency_score": 0.650466850868626,
+    "words": 83,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0418",
+    "event_time": "2026-01-01T06:58:00Z",
+    "urgency_score": 0.8333838542095544,
+    "words": 77,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0419",
+    "event_time": "2026-01-01T06:59:00Z",
+    "urgency_score": 0.7521014066593757,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0420",
+    "event_time": "2026-01-01T07:00:00Z",
+    "urgency_score": 0.2371127305547335,
+    "words": 15,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0421",
+    "event_time": "2026-01-01T07:01:00Z",
+    "urgency_score": 0.6090303493140462,
+    "words": 82,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0422",
+    "event_time": "2026-01-01T07:02:00Z",
+    "urgency_score": 0.5544701649636303,
+    "words": 75,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0423",
+    "event_time": "2026-01-01T07:03:00Z",
+    "urgency_score": 0.27674981614794625,
+    "words": 16,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0424",
+    "event_time": "2026-01-01T07:04:00Z",
+    "urgency_score": 0.2823395731642158,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0425",
+    "event_time": "2026-01-01T07:05:00Z",
+    "urgency_score": 0.025861557827512344,
+    "words": 11,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0426",
+    "event_time": "2026-01-01T07:06:00Z",
+    "urgency_score": 0.5636682509709212,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0427",
+    "event_time": "2026-01-01T07:07:00Z",
+    "urgency_score": 0.9529379060076982,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0428",
+    "event_time": "2026-01-01T07:08:00Z",
+    "urgency_score": 0.7362672915254784,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0429",
+    "event_time": "2026-01-01T07:09:00Z",
+    "urgency_score": 0.1711129048112851,
+    "words": 24,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0430",
+    "event_time": "2026-01-01T07:10:00Z",
+    "urgency_score": 0.7127321290329662,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0431",
+    "event_time": "2026-01-01T07:11:00Z",
+    "urgency_score": 0.8680084971376096,
+    "words": 75,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0432",
+    "event_time": "2026-01-01T07:12:00Z",
+    "urgency_score": 0.171113501222867,
+    "words": 16,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0433",
+    "event_time": "2026-01-01T07:13:00Z",
+    "urgency_score": 0.445388455357113,
+    "words": 16,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0434",
+    "event_time": "2026-01-01T07:14:00Z",
+    "urgency_score": 0.4862352366953564,
+    "words": 17,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0435",
+    "event_time": "2026-01-01T07:15:00Z",
+    "urgency_score": 0.12926480778579366,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0436",
+    "event_time": "2026-01-01T07:16:00Z",
+    "urgency_score": 0.12645418131289332,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0437",
+    "event_time": "2026-01-01T07:17:00Z",
+    "urgency_score": 0.6604472563868956,
+    "words": 75,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0438",
+    "event_time": "2026-01-01T07:18:00Z",
+    "urgency_score": 0.23169769808242358,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0439",
+    "event_time": "2026-01-01T07:19:00Z",
+    "urgency_score": 0.3093625875376993,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0440",
+    "event_time": "2026-01-01T07:20:00Z",
+    "urgency_score": 0.7566555462162599,
+    "words": 80,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0441",
+    "event_time": "2026-01-01T07:21:00Z",
+    "urgency_score": 0.02742071030653946,
+    "words": 17,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0442",
+    "event_time": "2026-01-01T07:22:00Z",
+    "urgency_score": 0.43342881089945884,
+    "words": 23,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0443",
+    "event_time": "2026-01-01T07:23:00Z",
+    "urgency_score": 0.5002518526939645,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0444",
+    "event_time": "2026-01-01T07:24:00Z",
+    "urgency_score": 0.7939521791040933,
+    "words": 87,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0445",
+    "event_time": "2026-01-01T07:25:00Z",
+    "urgency_score": 0.4387708116918197,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0446",
+    "event_time": "2026-01-01T07:26:00Z",
+    "urgency_score": 0.904315937122316,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0447",
+    "event_time": "2026-01-01T07:27:00Z",
+    "urgency_score": 0.408245969125025,
+    "words": 16,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0448",
+    "event_time": "2026-01-01T07:28:00Z",
+    "urgency_score": 0.42098620144974136,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0449",
+    "event_time": "2026-01-01T07:29:00Z",
+    "urgency_score": 0.1849982533549462,
+    "words": 21,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0450",
+    "event_time": "2026-01-01T07:30:00Z",
+    "urgency_score": 0.4616930258180563,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0451",
+    "event_time": "2026-01-01T07:31:00Z",
+    "urgency_score": 0.830704985422109,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0452",
+    "event_time": "2026-01-01T07:32:00Z",
+    "urgency_score": 0.43824946586278407,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0453",
+    "event_time": "2026-01-01T07:33:00Z",
+    "urgency_score": 0.7359726334060188,
+    "words": 81,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0454",
+    "event_time": "2026-01-01T07:34:00Z",
+    "urgency_score": 0.3397458775934067,
+    "words": 22,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0455",
+    "event_time": "2026-01-01T07:35:00Z",
+    "urgency_score": 0.5293806279417423,
+    "words": 84,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0456",
+    "event_time": "2026-01-01T07:36:00Z",
+    "urgency_score": 0.8896858223168485,
+    "words": 76,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0457",
+    "event_time": "2026-01-01T07:37:00Z",
+    "urgency_score": 0.8024355255200135,
+    "words": 85,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0458",
+    "event_time": "2026-01-01T07:38:00Z",
+    "urgency_score": 0.11869234666665232,
+    "words": 20,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0459",
+    "event_time": "2026-01-01T07:39:00Z",
+    "urgency_score": 0.7498066837250164,
+    "words": 82,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0460",
+    "event_time": "2026-01-01T07:40:00Z",
+    "urgency_score": 0.09233914263591377,
+    "words": 25,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0461",
+    "event_time": "2026-01-01T07:41:00Z",
+    "urgency_score": 0.7442679922371064,
+    "words": 78,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0462",
+    "event_time": "2026-01-01T07:42:00Z",
+    "urgency_score": 0.4509490467152605,
+    "words": 25,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0463",
+    "event_time": "2026-01-01T07:43:00Z",
+    "urgency_score": 0.9670706698264249,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0464",
+    "event_time": "2026-01-01T07:44:00Z",
+    "urgency_score": 0.8496769998381595,
+    "words": 78,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0465",
+    "event_time": "2026-01-01T07:45:00Z",
+    "urgency_score": 0.4701642401853184,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0466",
+    "event_time": "2026-01-01T07:46:00Z",
+    "urgency_score": 0.3107076177334524,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0467",
+    "event_time": "2026-01-01T07:47:00Z",
+    "urgency_score": 0.09122302992635618,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0468",
+    "event_time": "2026-01-01T07:48:00Z",
+    "urgency_score": 0.4538373091526549,
+    "words": 27,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0469",
+    "event_time": "2026-01-01T07:49:00Z",
+    "urgency_score": 0.6388798107928039,
+    "words": 83,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0470",
+    "event_time": "2026-01-01T07:50:00Z",
+    "urgency_score": 0.6104080528789506,
+    "words": 76,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0471",
+    "event_time": "2026-01-01T07:51:00Z",
+    "urgency_score": 0.9360622176538785,
+    "words": 80,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0472",
+    "event_time": "2026-01-01T07:52:00Z",
+    "urgency_score": 0.8800416949345305,
+    "words": 73,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0473",
+    "event_time": "2026-01-01T07:53:00Z",
+    "urgency_score": 0.20070988646645604,
+    "words": 22,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0474",
+    "event_time": "2026-01-01T07:54:00Z",
+    "urgency_score": 0.4766038668253467,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0475",
+    "event_time": "2026-01-01T07:55:00Z",
+    "urgency_score": 0.7985281388697159,
+    "words": 81,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0476",
+    "event_time": "2026-01-01T07:56:00Z",
+    "urgency_score": 0.9630901578496615,
+    "words": 85,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0477",
+    "event_time": "2026-01-01T07:57:00Z",
+    "urgency_score": 0.25783397465435287,
+    "words": 23,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0478",
+    "event_time": "2026-01-01T07:58:00Z",
+    "urgency_score": 0.971346581741012,
+    "words": 75,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0479",
+    "event_time": "2026-01-01T07:59:00Z",
+    "urgency_score": 0.377937902817274,
+    "words": 19,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0480",
+    "event_time": "2026-01-01T08:00:00Z",
+    "urgency_score": 0.3919198971421913,
+    "words": 21,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0481",
+    "event_time": "2026-01-01T08:01:00Z",
+    "urgency_score": 0.7776578543011181,
+    "words": 74,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0482",
+    "event_time": "2026-01-01T08:02:00Z",
+    "urgency_score": 0.34126337336954005,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0483",
+    "event_time": "2026-01-01T08:03:00Z",
+    "urgency_score": 0.29278109492298915,
+    "words": 24,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0484",
+    "event_time": "2026-01-01T08:04:00Z",
+    "urgency_score": 0.8375036095850282,
+    "words": 85,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0485",
+    "event_time": "2026-01-01T08:05:00Z",
+    "urgency_score": 0.34002755461813433,
+    "words": 19,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0486",
+    "event_time": "2026-01-01T08:06:00Z",
+    "urgency_score": 0.6570676217658165,
+    "words": 83,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0487",
+    "event_time": "2026-01-01T08:07:00Z",
+    "urgency_score": 0.6905407642994057,
+    "words": 78,
+    "channel": "chat",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0488",
+    "event_time": "2026-01-01T08:08:00Z",
+    "urgency_score": 0.14379359194069777,
+    "words": 20,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0489",
+    "event_time": "2026-01-01T08:09:00Z",
+    "urgency_score": 0.3816121338140482,
+    "words": 18,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0490",
+    "event_time": "2026-01-01T08:10:00Z",
+    "urgency_score": 0.8006573924622089,
+    "words": 76,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0491",
+    "event_time": "2026-01-01T08:11:00Z",
+    "urgency_score": 0.9772775484472354,
+    "words": 73,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0492",
+    "event_time": "2026-01-01T08:12:00Z",
+    "urgency_score": 0.10971484646338088,
+    "words": 18,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0493",
+    "event_time": "2026-01-01T08:13:00Z",
+    "urgency_score": 0.3680937622227626,
+    "words": 16,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0494",
+    "event_time": "2026-01-01T08:14:00Z",
+    "urgency_score": 0.933122541052289,
+    "words": 76,
+    "channel": "web",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0495",
+    "event_time": "2026-01-01T08:15:00Z",
+    "urgency_score": 0.23748132467253172,
+    "words": 26,
+    "channel": "web",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0496",
+    "event_time": "2026-01-01T08:16:00Z",
+    "urgency_score": 0.1687473660266286,
+    "words": 18,
+    "channel": "email",
+    "label": 0,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0497",
+    "event_time": "2026-01-01T08:17:00Z",
+    "urgency_score": 0.760039731548577,
+    "words": 87,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0498",
+    "event_time": "2026-01-01T08:18:00Z",
+    "urgency_score": 0.8683348788728591,
+    "words": 84,
+    "channel": "email",
+    "label": 1,
+    "partition": "test"
+  },
+  {
+    "event_id": "history-0499",
+    "event_time": "2026-01-01T08:19:00Z",
+    "urgency_score": 0.14580707977232768,
+    "words": 21,
+    "channel": "chat",
+    "label": 0,
+    "partition": "test"
+  }
+]
